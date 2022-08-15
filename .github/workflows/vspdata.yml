@@ -29,12 +29,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: execute vsp script # run vsp.py to get the latest data
+      - name: execute vsp script # run vsp.py to get the vsp data
         run: python vsp.py
         
-      - name: execute node script # run node.py to get the latest data
+      - name: execute node script # run nodes.py to get the node version data
         run: python nodes.py
-          
+
+      - name: execute hashrate script # run hashrate.py to get the hashrate distribution
+        run: python hashrate.py
+
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
