@@ -5,7 +5,7 @@ name: journal
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '0 6 1 * *' # runs at 06:00 UTC on the first of every month
+    - cron: '0 1 * * *' # runs at 01:00 UTC every day
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
