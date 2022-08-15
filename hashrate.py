@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import date
 import os
-
+import lxml
 
 url = "https://poolbay.io/crypto/54/decred"
 data = requests.get(url).text
