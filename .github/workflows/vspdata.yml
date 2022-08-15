@@ -1,6 +1,6 @@
 # workflow for getting Decred VSP data from the decred.org api
 
-name: apiVSP
+name: journal
 
 # Controls when the workflow will run
 on:
@@ -29,8 +29,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: execute py script # run vsp.py to get the latest data
+      - name: execute vsp script # run vsp.py to get the latest data
         run: python vsp.py
+        
+      - name: execute node script # run vsp.py to get the latest data
+        run: python node.py
           
       - name: commit files
         run: |
