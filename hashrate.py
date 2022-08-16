@@ -51,6 +51,8 @@ d = { 'pool':listPool, 'rate':listHash,'units':listUnits}
 # create df
 df = pd.DataFrame(d)
 
+df = df.set_index('pool')
+
 # check if path exists, if not create
 if not os.path.exists('./data/hashrate'):
     os.makedirs('./data/hashrate')

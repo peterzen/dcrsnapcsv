@@ -1,7 +1,7 @@
-,pool,rate,units
-0,coinmine.pl,0.69989,PH/s
-1,viabtc.net,0.0,PH/s
-2,antpool.com,3.2,PH/s
-3,f2pool.com,16.97,PH/s
-4,poolin.me,26.64,PH/s
-5,pool.btc.com,4.41,PH/s
+pool,rate,units
+coinmine.pl,0.7153400000000001,PH/s
+viabtc.net,0.0,PH/s
+antpool.com,3.25,PH/s
+f2pool.com,16.91,PH/s
+poolin.me,29.63,PH/s
+pool.btc.com,4.23,PH/s
