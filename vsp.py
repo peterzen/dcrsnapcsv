@@ -25,7 +25,7 @@ if not os.path.exists('./data/vsp'):
 
 # get today's date to add to the filename
 todayStr = str(date.today())
-filename = './data/vsp/vsp-' + todayStr + '.csv'
+filename = './data/vsp/' + todayStr + '.csv'
 
 # save to csv
 dft.to_csv(filename)

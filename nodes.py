@@ -45,7 +45,7 @@ if not os.path.exists('./data/nodes'):
 
 # get today's date to add to the filename
 todayStr = str(date.today())
-filename = './data/nodes/nodes-' + todayStr + '.csv'
+filename = './data/nodes/' + todayStr + '.csv'
 
 # save to csv
 df.to_csv(filename)

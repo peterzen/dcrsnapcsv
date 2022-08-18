@@ -59,7 +59,7 @@ if not os.path.exists('./data/hashrate'):
 
 # get today's date to add to the filename
 todayStr = str(date.today())
-filename = './data/hashrate/hashrate-' + todayStr + '.csv'
+filename = './data/hashrate/' + todayStr + '.csv'
 
 # save to csv
 df.to_csv(filename)
