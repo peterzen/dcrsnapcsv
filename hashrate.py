@@ -57,9 +57,14 @@ df = df.set_index('pool')
 if not os.path.exists('./data/hashrate'):
     os.makedirs('./data/hashrate')
 
-# get today's date to add to the filename
+# get today's date for file path
 todayStr = str(date.today())
-filename = './data/hashrate/' + todayStr + '.csv'
+yearMonthStr = date.today().strftime("%Y/%m/")
 
+# path for raw data
+pathStr = './data/hashrate/' + yearMonthStr
+if not os.path.exists(pathStr):
+    os.makedirs(pathStr)
+filename = pathStr + todayStr + '.csv'
 # save to csv
 df.to_csv(filename)

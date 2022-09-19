@@ -23,9 +23,15 @@ dft['lastupdated'] = pd.to_datetime(dft['lastupdated'],unit='s')
 if not os.path.exists('./data/vsp'):
     os.makedirs('./data/vsp')
 
-# get today's date to add to the filename
+# get today's date for file path
 todayStr = str(date.today())
-filename = './data/vsp/' + todayStr + '.csv'
+yearMonthStr = date.today().strftime("%Y/%m/")
+
+# path for raw data
+pathStr = './data/vsp/' + yearMonthStr
+if not os.path.exists(pathStr):
+    os.makedirs(pathStr)
+filename = pathStr + todayStr + '.csv'
 
 # save to csv
 dft.to_csv(filename)
