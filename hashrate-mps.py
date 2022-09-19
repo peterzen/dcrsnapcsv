@@ -32,7 +32,7 @@ yearMonthStr = date.today().strftime("%Y/%m/")
 pathStr = './data/hashrate-mps-raw/' + yearMonthStr
 if not os.path.exists(pathStr):
     os.makedirs(pathStr)
-filename = pathStr + todayStr + '.csv'
+filename = pathStr + todayStr + '.txt'
 # save raw json response to a csv
 with open(filename, "w") as f:
     f.write(strResposne)
