@@ -41,6 +41,9 @@ jobs:
       - name: execute hashrate MPS script # run hashrate.py to get the hashrate distribution
         run: python hashrate-mps.py
 
+      - name: execute dcrlnd script # run hashrate.py to get the hashrate distribution
+        run: python dcrln.py
+
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
