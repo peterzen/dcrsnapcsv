@@ -30,21 +30,27 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute vsp script # run vsp.py to get the vsp data
+        if: always()
         run: python vsp.py
         
       - name: execute node script # run nodes.py to get the node version data
+        if: always()
         run: python nodes.py
 
       - name: execute hashrate script # run hashrate.py to get the hashrate distribution
+        if: always()
         run: python hashrate.py
 
       - name: execute hashrate MPS script # run hashrate.py to get the hashrate distribution
+        if: always()
         run: python hashrate-mps.py
 
       - name: execute dcrlnd script # run hashrate.py to get the hashrate distribution
+        if: always()
         run: python dcrln.py
 
       - name: commit files
+        if: always()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -52,6 +58,7 @@ jobs:
           git commit -m "update data" -a
           
       - name: push changes
+        if: always()
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
