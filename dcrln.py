@@ -33,7 +33,7 @@ def convert_ln_json_to_df(jsonResponse):
 
     return df_nodes, df_channels
 
-url = 'https://ln-map.jholdstock.uk//api/graph'
+url = 'https://decred.lighting/api/graph'
 # get api response
 response = requests.get(url)
 strResposne = response.text
