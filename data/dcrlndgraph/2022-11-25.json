@@ -3365,7 +3365,7 @@
         {
             "channel_id": "538400057796395009",
             "chan_point": "ff5fc0c78c7730d084b5c9083925266e18ed03833580e64768140682241116e9:1",
-            "last_update": 1669315435,
+            "last_update": 1669401835,
             "node1_pub": "026d68b7ca00f6857930da9f5e070b2feb2ca430b38d7dfc24c7a4132763938408",
             "node2_pub": "035367ba8ce27b52d1bcc6af833bb38b446e920b4b8e3ff6ee47e9a56a6b71fe54",
             "capacity": "5867447",
@@ -3385,7 +3385,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "5808773000",
-                "last_update": 1669315435
+                "last_update": 1669401835
             }
         },
         {
