@@ -79,3 +79,14 @@ if not os.path.isfile((streamPath+streamFile)):
 data = [todayStr,df_channels['node1_pub'].count()]
 # update stream file
 stream.appendtoCSV(data,streamPath,streamFile)
+
+# update stream for LN channels
+streamFile = 'sumLNCapacity.csv'
+# check if file path exists:
+if not os.path.isfile((streamPath+streamFile)):
+    # if it doesn't exist, create header and file
+    stream.appendtoCSV(['date','sumLNCapacity'],streamPath,streamFile)
+# create data list
+data = [todayStr,df_channels['capacity'].sum()]
+# update stream file
+stream.appendtoCSV(data,streamPath,streamFile)
