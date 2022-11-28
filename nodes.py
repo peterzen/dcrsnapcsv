@@ -5,6 +5,8 @@ from datetime import date
 import os
 
 # major versions to include
+import stream
+
 currentver = '1.7'
 nextvers = '1.8'
 
@@ -51,7 +53,6 @@ df['useragent'] = df['useragent'].replace({'1.6.*': 'other', '1.5.*': 'other', '
 df['count'] = df['count'].astype(int)
 # group others
 df = df.groupby("useragent").agg({'count':'sum'})
-
 # path for processed data
 pathStr = './data/nodes/' + yearMonthStr
 if not os.path.exists(pathStr):
@@ -59,3 +60,17 @@ if not os.path.exists(pathStr):
 filename = pathStr + todayStr + '.csv'
 # save to csv
 df.to_csv(filename)
+
+# append total node count to the nodes stream
+# check if the file exists:
+streamPath = './data/stream/'
+streamFile = 'countNodes.csv'
+
+# check if file path exists:
+if not os.path.isfile((streamPath+streamFile)):
+    # if it doesn't exist, create header and file
+    stream.appendtoCSV(['date','countNodes'],streamPath,streamFile)
+# create data list
+data = [todayStr,df['count'].sum()]
+# update stream file
+stream.appendtoCSV(data,streamPath,streamFile)

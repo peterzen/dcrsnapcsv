@@ -5,6 +5,7 @@ import os
 import json
 from urllib.request import urlopen
 import numpy as np
+import stream
 
 pd.set_option('display.max_columns', None)
 
@@ -53,3 +54,28 @@ if not os.path.exists(pathStr):
 filename = pathStr + todayStr + '.csv'
 # save to csv
 df_nodes.to_csv(filename)
+
+# append total node count to the nodes stream
+# check if the file exists:
+streamPath = './data/stream/'
+streamFile = 'countLNNodes.csv'
+
+# check if file path exists:
+if not os.path.isfile((streamPath+streamFile)):
+    # if it doesn't exist, create header and file
+    stream.appendtoCSV(['date','countLNNodes'],streamPath,streamFile)
+# create data list
+data = [todayStr,df_nodes['pub_key'].count()]
+# update stream file
+stream.appendtoCSV(data,streamPath,streamFile)
+
+# update stream for LN channels
+streamFile = 'countLNChannels.csv'
+# check if file path exists:
+if not os.path.isfile((streamPath+streamFile)):
+    # if it doesn't exist, create header and file
+    stream.appendtoCSV(['date','countLNChannels'],streamPath,streamFile)
+# create data list
+data = [todayStr,df_channels['node1_pub'].count()]
+# update stream file
+stream.appendtoCSV(data,streamPath,streamFile)
