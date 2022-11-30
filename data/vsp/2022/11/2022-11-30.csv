@@ -1,0 +1,22 @@
+id,network,launched,lastupdated,apiversions,feepercentage,closed,voting,voted,revoked,vspdversion
+123.dcr.rocks,mainnet,2021-04-28,2022-11-30 02:18:54,[3],0.49,False,670,17870,109,1.1.0
+big.decred.energy,mainnet,2022-05-01,2022-11-30 02:18:54,[3],0.6900000000000001,False,199,906,1,1.1.1
+dcrhive.com,mainnet,2022-06-23,2022-11-30 02:18:54,[3],0.666,False,168,497,0,1.1.1
+dcrpool.ibitlin.com,mainnet,2021-01-13,2022-11-30 02:18:54,[3],1,False,6,1178,9,1.1.0-pre
+dcrvsp.dittrex.com,mainnet,2021-04-07,2022-11-30 02:18:54,[3],5,False,16,474,2,1.2.0-pre
+dcrvsp.ubiqsmart.com,mainnet,2020-12-25,2022-11-30 02:18:54,[3],0.9500000000000001,False,246,7021,39,1.1.1
+decredvoting.com,mainnet,2021-02-01,2022-11-30 02:18:54,[3],1,False,205,2989,23,1.1.1
+stakey.net,mainnet,2020-10-22,2022-11-30 02:18:54,[3],1,False,291,25761,186,1.1.1
+testnet-vsp.jholdstock.uk,testnet,2021-01-20,2022-10-26 08:33:54,[3],10,False,0,73412,668,1.1.0-pre
+teststakepool.decred.org,testnet,2020-06-01,2022-11-30 02:18:54,[3],3,False,2,213737,1027,1.1.1
+ultravsp.uk,mainnet,2020-12-01,2022-11-30 02:18:54,[3],0.30000000000000004,False,1080,7032,24,1.1.1
+vsp.coinmine.pl,mainnet,2021-01-28,2022-11-30 02:18:54,[3],0.5,False,305,26404,165,1.1.1
+vsp.dcr.farm,mainnet,2020-12-09,2022-11-30 02:18:54,[3],0.9500000000000001,False,164,5648,35,1.1.0
+vsp.decredcommunity.org,mainnet,2020-11-05,2022-11-30 02:18:54,[3],0.49,False,570,4866,14,1.1.1
+vsp.stakeminer.com,mainnet,2020-11-09,2022-11-30 02:18:54,[3],1,False,637,20332,109,1.1.1
+vspd-testnet.synergy-crypto.net,testnet,2021-05-01,2022-10-20 08:18:54,[3],1,True,0,68,2,1.1.1
+vspd.99split.com,mainnet,2020-11-17,2022-11-30 02:18:57,[3],0.30000000000000004,False,1414,9627,39,1.1.1
+vspd.bass.cf,mainnet,2022-05-01,2022-11-30 02:18:54,[3],0.2,False,829,2705,18,1.1.1
+vspd.decredbrasil.com,mainnet,2020-11-22,2022-11-30 02:18:54,[3],5,False,86,1816,12,1.1.1
+vspd.stakey.com,mainnet,2021-02-13,2022-10-03 23:18:54,[3],0.30000000000000004,False,1332,21042,101,1.1.0
+vspd.synergy-crypto.net,mainnet,2021-06-10,2022-11-30 02:18:54,[3],0.75,True,6,887,3,1.1.1
