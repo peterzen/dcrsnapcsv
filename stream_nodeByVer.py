@@ -9,8 +9,8 @@ import os
 # into a single data stream file with multiple columns
 
 # set boundaries to iterate
-dateStart = dt.date(int(2022),int(9),int(19))
-dateEnd = dt.date.today()
+dateStart = dt.date(int(2022),int(11),int(30))
+dateEnd = dt.date(int(2022),int(11),int(30))
 
 datex = dateStart
 # iterate over the dates covered
