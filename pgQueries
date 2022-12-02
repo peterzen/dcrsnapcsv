@@ -1,0 +1,63 @@
+
+Average mix output count daily:
+
+Select to_char(date_trunc('day', block_time), 'YYYY-MM-DD') AS date,
+AVG(mix_count) as AvgOutputCount
+FROM public.transactions
+Where mix_count > 0
+GROUP BY date
+order by date asc
+
+Average mix output count daily per denomination:
+
+Select to_char(date_trunc('day', block_time), 'YYYY-MM-DD') AS date,
+AVG(CASE WHEN (mix_denom=2^18) THEN mix_count ELSE NULL END) AS id_18,
+AVG(CASE WHEN (mix_denom=2^20) THEN mix_count ELSE NULL END) AS id_20,
+AVG(CASE WHEN (mix_denom=2^22) THEN mix_count ELSE NULL END) AS id_22,
+AVG(CASE WHEN (mix_denom=2^24) THEN mix_count ELSE NULL END) AS id_24,
+AVG(CASE WHEN (mix_denom=2^26) THEN mix_count ELSE NULL END) AS id_26,
+AVG(CASE WHEN (mix_denom=2^28) THEN mix_count ELSE NULL END) AS id_28,
+AVG(CASE WHEN (mix_denom=2^30) THEN mix_count ELSE NULL END) AS id_30,
+AVG(CASE WHEN (mix_denom=2^32) THEN mix_count ELSE NULL END) AS id_32,
+AVG(CASE WHEN (mix_denom=2^34) THEN mix_count ELSE NULL END) AS id_34,
+AVG(CASE WHEN (log(2,mix_denom) % 1 <> 0) THEN mix_count ELSE NULL END) AS id_tp
+FROM public.transactions
+Where mix_count > 0
+GROUP BY date
+order by date asc
+
+count mixes per day per denom
+Select to_char(date_trunc('day', block_time), 'YYYY-MM-DD') AS date,
+COUNT(CASE WHEN (mix_denom=2^18) THEN mix_count ELSE NULL END) AS id_18,
+COUNT(CASE WHEN (mix_denom=2^20) THEN mix_count ELSE NULL END) AS id_20,
+COUNT(CASE WHEN (mix_denom=2^22) THEN mix_count ELSE NULL END) AS id_22,
+COUNT(CASE WHEN (mix_denom=2^24) THEN mix_count ELSE NULL END) AS id_24,
+COUNT(CASE WHEN (mix_denom=2^26) THEN mix_count ELSE NULL END) AS id_26,
+COUNT(CASE WHEN (mix_denom=2^28) THEN mix_count ELSE NULL END) AS id_28,
+COUNT(CASE WHEN (mix_denom=2^30) THEN mix_count ELSE NULL END) AS id_30,
+COUNT(CASE WHEN (mix_denom=2^32) THEN mix_count ELSE NULL END) AS id_32,
+COUNT(CASE WHEN (mix_denom=2^34) THEN mix_count ELSE NULL END) AS id_34,
+COUNT(CASE WHEN (mix_denom=2^36) THEN mix_count ELSE NULL END) AS id_36,
+COUNT(CASE WHEN (log(2,mix_denom) % 1 <> 0) THEN mix_count ELSE NULL END) AS id_tp
+FROM public.transactions
+Where mix_count > 0
+GROUP BY date
+order by date asc
+
+Sum outputs per day per denom
+Select to_char(date_trunc('day', block_time), 'YYYY-MM-DD') AS date,
+SUM(CASE WHEN (mix_denom=2^18) THEN mix_count ELSE NULL END) AS id_18,
+SUM(CASE WHEN (mix_denom=2^20) THEN mix_count ELSE NULL END) AS id_20,
+SUM(CASE WHEN (mix_denom=2^22) THEN mix_count ELSE NULL END) AS id_22,
+SUM(CASE WHEN (mix_denom=2^24) THEN mix_count ELSE NULL END) AS id_24,
+SUM(CASE WHEN (mix_denom=2^26) THEN mix_count ELSE NULL END) AS id_26,
+SUM(CASE WHEN (mix_denom=2^28) THEN mix_count ELSE NULL END) AS id_28,
+SUM(CASE WHEN (mix_denom=2^30) THEN mix_count ELSE NULL END) AS id_30,
+SUM(CASE WHEN (mix_denom=2^32) THEN mix_count ELSE NULL END) AS id_32,
+SUM(CASE WHEN (mix_denom=2^34) THEN mix_count ELSE NULL END) AS id_34,
+SUM(CASE WHEN (mix_denom=2^36) THEN mix_count ELSE NULL END) AS id_36,
+SUM(CASE WHEN (log(2,mix_denom) % 1 <> 0) THEN mix_count ELSE NULL END) AS id_tp
+FROM public.transactions
+Where mix_count > 0
+GROUP BY date
+order by date asc
