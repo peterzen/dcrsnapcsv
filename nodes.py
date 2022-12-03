@@ -110,8 +110,6 @@ else:
     fDataNew.to_csv(sPath, mode='w', header=True)
 
 # this bit of code is for appending to the nodes by ver stream
-# set useragent as index
-rawdf = rawdf.set_index('useragent')
 # transpose
 sData = rawdf.T
 # add date to df
