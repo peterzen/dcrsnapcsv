@@ -10,8 +10,12 @@ import os
 
 # set boundaries to iterate
 dateStart = dt.date(int(2022),int(9),int(15))
-dateEnd = dt.date(int(2022),int(11),int(30))
-
+dateEnd = dt.date.today()
+# file path
+sPath = 'data/stream/distHashrate.csv'
+# remove existing file
+os.remove(sPath)
+# initialise pointer
 datex = dateStart
 # iterate over the dates covered
 while datex <= dateEnd:
@@ -33,8 +37,6 @@ while datex <= dateEnd:
         sData['date'] = dateStr
         # set date as index
         sData = sData.set_index('date')
-        # file path
-        sPath = 'data/stream/distHashrate.csv'
         # check if stream file exists
         if not os.path.isfile(sPath):
             # if it doesn't exist, create file with header
