@@ -1,0 +1,7 @@
+pool_id,url,hashrate,miners,minpay,id,feetype,workers,income,i_blocks,blocks_nr,lastblock,lastblocktime,blocks_1000,blocks_count,hashrate_average_100_count,hashrate_average_100hashrate_average_1h,hashrate_average_7d,hashrate_average_7d_count,expected_blocks,luck
+okx.com,https://www.okx.com/pool,0,-1,-1,23,PPLNS,0,0,0,0,630904,0,0,0,79,0,0,168,0,0
+coinmine.pl,https://www2.coinmine.pl/dcr,432031241740834,-1,0.05,5,PPLNS,26,0,0,5,721842,1671488919,8,2,79,0,261965820846428.62,168,0.4,1.5989363707893205
+antpool.com,https://lab.antpool.com,12720000000000000,-1,0.1,11,PPS,0,3.4641998000000002e-15,0,0,719327,1670732243,0,0,79,0,13396852983095232,168,15.94,0
+pool.btc.com,https://pool.btc.com,3390000000000000,-1,0.1,4,PPS,79,3.6121608864421e-15,14646,10,719623,1670823992,0,0,79,0,3615165425714286.5,168,4.49,0
+f2pool.com,https://www.f2pool.com,41576852422584460,-1,0.1,14,PPS%3,0,3.7033291158859385e-15,0,9,721882,1671500982,327,52,79,0,36341400757382140,168,53.38,-1.3759871620302562
+poolin.com,https://www.poolin.com,27461000000000000,-1,0.01,3,PPS,1484,4.02996e-15,0,17,721878,1671500042,458,36,79,0,31356416610952390,168,34.62,1.375987162030242
