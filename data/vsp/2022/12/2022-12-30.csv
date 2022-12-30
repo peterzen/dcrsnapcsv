@@ -1,0 +1,22 @@
+id,network,launched,lastupdated,apiversions,feepercentage,closed,voting,voted,revoked,vspdversion
+123.dcr.rocks,mainnet,2021-04-28,2022-12-30 02:04:49,[3],0.49,False,623,18547,114,1.1.0
+big.decred.energy,mainnet,2022-05-01,2022-12-30 02:04:49,[3],0.49,False,367,1132,1,1.1.1
+dcrhive.com,mainnet,2022-06-23,2022-12-30 02:04:49,[3],0.666,False,166,661,0,1.1.1
+dcrpool.ibitlin.com,mainnet,2021-01-13,2022-12-30 02:04:50,[3],1,False,5,1184,9,1.1.0-pre
+dcrvsp.dittrex.com,mainnet,2021-04-07,2022-12-30 02:04:49,[3],5,False,10,487,2,1.2.0-pre
+dcrvsp.ubiqsmart.com,mainnet,2020-12-25,2022-12-30 02:04:49,[3],0.9500000000000001,False,233,7290,40,1.1.1
+decredvoting.com,mainnet,2021-02-01,2022-12-30 02:04:49,[3],1,False,145,3174,23,1.1.1
+stakey.net,mainnet,2020-10-22,2022-12-30 02:04:49,[3],1,False,284,26032,188,1.1.1
+testnet-vsp.jholdstock.uk,testnet,2021-01-20,2022-10-26 08:34:56,[3],10,False,0,73412,668,1.1.0-pre
+teststakepool.decred.org,testnet,2020-06-01,2022-12-30 02:04:49,[3],3,False,0,213758,1032,1.1.1
+ultravsp.uk,mainnet,2020-12-01,2022-12-30 02:04:49,[3],0.30000000000000004,False,816,8066,28,1.1.1
+vsp.coinmine.pl,mainnet,2021-01-28,2022-12-30 02:04:49,[3],0.5,False,226,26665,166,1.1.1
+vsp.dcr.farm,mainnet,2020-12-09,2022-12-30 02:04:49,[3],0.9500000000000001,False,186,5838,36,1.1.0
+vsp.decredcommunity.org,mainnet,2020-11-05,2022-12-30 02:04:49,[3],0.49,False,507,5487,18,1.1.1
+vsp.stakeminer.com,mainnet,2020-11-09,2022-12-30 02:04:49,[3],1,False,702,20975,113,1.1.1
+vspd-testnet.synergy-crypto.net,testnet,2021-05-01,2022-10-20 08:14:55,[3],1,True,0,68,2,1.1.1
+vspd.99split.com,mainnet,2020-11-17,2022-12-30 02:04:49,[3],0.30000000000000004,False,1482,11099,46,1.1.1
+vspd.bass.cf,mainnet,2022-05-01,2022-12-30 02:04:49,[3],0.2,False,1019,3652,21,1.1.1
+vspd.decredbrasil.com,mainnet,2020-11-22,2022-12-30 02:04:49,[3],5,False,52,1891,14,1.1.1
+vspd.stakey.com,mainnet,2021-02-13,2022-10-03 23:19:55,[3],0.30000000000000004,False,1332,21042,101,1.1.0
+vspd.synergy-crypto.net,mainnet,2021-06-10,2022-12-30 02:04:49,[3],0.75,True,0,892,4,1.1.1
