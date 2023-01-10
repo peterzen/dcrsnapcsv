@@ -14,7 +14,8 @@ dateEnd = dt.date.today()
 # file path
 sPath = 'data/stream/distHashrate.csv'
 # remove existing file
-os.remove(sPath)
+if os.path.isfile(sPath):
+    os.remove(sPath)
 # initialise pointer
 datex = dateStart
 # iterate over the dates covered
