@@ -1,5 +1,3 @@
-import requests
-from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import date
 import os
@@ -11,25 +9,9 @@ currentver = '1.7'
 nextvers = '1.8'
 
 
-url = "https://nodes.jholdstock.uk/user_agents"
-data = requests.get(url).text
-soup = BeautifulSoup(data, 'html.parser')
-table = soup.find('table', class_='table-striped')
+url = "https://nodes.jholdstock.uk/api/user_agents"
+df = pd.read_json(url).set_index('rank')
 
-# Defining of the dataframe
-df = pd.DataFrame(columns=['rank', 'useragent', 'count'])
-
-# Collecting data
-for row in table.tbody.find_all('tr'):
-    # Find all data for each column
-    columns = row.find_all('td')
-    if (columns != []):
-        rank = columns[0].text.strip()
-        useragent = columns[1].text.strip()
-        count = columns[2].text.strip()
-        df = pd.concat([df, pd.DataFrame.from_records([{'rank': rank, 'useragent': useragent, 'count': count}])])
-
-df = df.set_index('rank')
 # get today's date for file path
 todayStr = str(date.today())
 yearMonthStr = date.today().strftime("%Y/%m/")
