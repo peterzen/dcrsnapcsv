@@ -49,6 +49,10 @@ jobs:
         if: always()
         run: python dcrln.py
 
+      - name: execute hashrate stream script # run stream_hashDist.py to get the hashrate stream
+        if: always()
+        run: python stream_hashDist.py
+
       - name: commit files
         if: always()
         run: |
