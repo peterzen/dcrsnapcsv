@@ -1,0 +1,806 @@
+{
+    "nodes": [
+        {
+            "last_update": 1678887944,
+            "pub_key": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
+            "alias": "El Gran Bisonte ⚡🐂⚡",
+            "addresses": [
+                {
+                    "network": "tcp",
+                    "addr": "51.15.91.167:9735"
+                }
+            ],
+            "color": "#091440",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 1659615174,
+            "pub_key": "021b2459b6ee500f5497fe9c54af0ad00d87c0d2973254c01cd02acb4e67865d7c",
+            "alias": "021b2459b6ee500f5497",
+            "addresses": [
+            ],
+            "color": "#3399ff",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 1678880461,
+            "pub_key": "02474eca009675327264a9e8c349a9b8e361049fd809244a048afb1d2411ffe98b",
+            "alias": "02474eca009675327264",
+            "addresses": [
+            ],
+            "color": "#3399ff",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 1611599533,
+            "pub_key": "025a0021382d8263551423f783fe931c03b13dd215ea9ed8eac91f9d81f99d1775",
+            "alias": "025a0021382d82635514",
+            "addresses": [
+            ],
+            "color": "#3399ff",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 1596958725,
+            "pub_key": "027d489e4cfe55b8a10f29bf1a7cd779a827d90a94d3bb160e0772dc6316875bba",
+            "alias": "Let there be Guang",
+            "addresses": [
+                {
+                    "network": "tcp",
+                    "addr": "172.86.124.234:9735"
+                }
+            ],
+            "color": "#7fffd4",
+            "features": {
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 1671770674,
+            "pub_key": "02942be3f075e3756758676b812edd01d0489590794fad326c5b61bbca742d8b8c",
+            "alias": "02942be3f075e3756758",
+            "addresses": [
+            ],
+            "color": "#3399ff",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 1619945829,
+            "pub_key": "02e854b2d824a06ac691a198787ee7904a48683e0ba4eba407b533e457c820f799",
+            "alias": "02e854b2d824a06ac691",
+            "addresses": [
+            ],
+            "color": "#3399ff",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 0,
+            "pub_key": "030a560935cd5d27ade70c7d45d61c46a5cccaacbf26ecfe26886755c622f72fce",
+            "alias": "",
+            "addresses": [
+            ],
+            "color": "#000000",
+            "features": {
+            }
+        },
+        {
+            "last_update": 1643264887,
+            "pub_key": "034585e47c97c3fa4fccd29e07edfcb8ea39b20f00e5e414033cb9f26a9beb79b9",
+            "alias": "034585e47c97c3fa4fcc",
+            "addresses": [
+            ],
+            "color": "#3399ff",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 1678815913,
+            "pub_key": "0362c993b027256a45333ac664f112fd78bb9e730acae0b315782638b48bdd68ca",
+            "alias": "0362c993b027256a4533",
+            "addresses": [
+            ],
+            "color": "#3399ff",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 1612114862,
+            "pub_key": "036527574e74b3d12ec4875d4d8004a6c35a01bd18fe87c21fd4d98be3572ad83e",
+            "alias": "036527574e74b3d12ec4",
+            "addresses": [
+            ],
+            "color": "#3399ff",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 1678895171,
+            "pub_key": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
+            "alias": "03bd03386d7b2efe80ae",
+            "addresses": [
+                {
+                    "network": "tcp",
+                    "addr": "45.32.162.169:9735"
+                },
+                {
+                    "network": "tcp",
+                    "addr": "[2001:19f0:9002:617:5400:4ff:fe40:5353]:9735"
+                }
+            ],
+            "color": "#3399ff",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 1666728401,
+            "pub_key": "03ec729b8d558ce05455525577eec5872e104bd1ee52b69c744e7d61a6765fbc1c",
+            "alias": "jholdstock ⚡",
+            "addresses": [
+                {
+                    "network": "tcp",
+                    "addr": "51.68.214.224:9735"
+                }
+            ],
+            "color": "#ff6600",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        },
+        {
+            "last_update": 1641762028,
+            "pub_key": "03f2c91b29337de58a95ca90165b13a10e46e83b621cdf660ea30deeff127d44d1",
+            "alias": "Liq-BR",
+            "addresses": [
+                {
+                    "network": "tcp",
+                    "addr": "18.230.115.229:9735"
+                }
+            ],
+            "color": "#009c3b",
+            "features": {
+                "0": {
+                    "name": "data-loss-protect",
+                    "is_required": true,
+                    "is_known": true
+                },
+                "5": {
+                    "name": "upfront-shutdown-script",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "7": {
+                    "name": "gossip-queries",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "9": {
+                    "name": "tlv-onion",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "13": {
+                    "name": "static-remote-key",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "15": {
+                    "name": "payment-addr",
+                    "is_required": false,
+                    "is_known": true
+                },
+                "17": {
+                    "name": "multi-path-payments",
+                    "is_required": false,
+                    "is_known": true
+                }
+            }
+        }
+    ],
+    "edges": [
+        {
+            "channel_id": "456831688178794496",
+            "chan_point": "1927bc4332c1de19210f3a1ea4a3206ad143558db42d033cf90d34fb4b3c1003:0",
+            "last_update": 1659564772,
+            "node1_pub": "021b2459b6ee500f5497fe9c54af0ad00d87c0d2973254c01cd02acb4e67865d7c",
+            "node2_pub": "027d489e4cfe55b8a10f29bf1a7cd779a827d90a94d3bb160e0772dc6316875bba",
+            "capacity": "100000000",
+            "node1_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": true,
+                "max_htlc_m_atoms": "99000000000",
+                "last_update": 1659564772
+            },
+            "node2_policy": null
+        },
+        {
+            "channel_id": "575112751047966720",
+            "chan_point": "d72609a2942f2a6354170cb86bcc08cebb95fa90d53e0504b087f40e533339bc:0",
+            "last_update": 1666782401,
+            "node1_pub": "025a0021382d8263551423f783fe931c03b13dd215ea9ed8eac91f9d81f99d1775",
+            "node2_pub": "03ec729b8d558ce05455525577eec5872e104bd1ee52b69c744e7d61a6765fbc1c",
+            "capacity": "2154804",
+            "node1_policy": null,
+            "node2_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": true,
+                "max_htlc_m_atoms": "2133256000",
+                "last_update": 1666782401
+            }
+        },
+        {
+            "channel_id": "575147935421628417",
+            "chan_point": "51ecd60a0c018f793a8daadd52718fdd60d475320eff65b4dc99d99e0c8e8f05:1",
+            "last_update": 1641698631,
+            "node1_pub": "02e854b2d824a06ac691a198787ee7904a48683e0ba4eba407b533e457c820f799",
+            "node2_pub": "03f2c91b29337de58a95ca90165b13a10e46e83b621cdf660ea30deeff127d44d1",
+            "capacity": "2995984",
+            "node1_policy": null,
+            "node2_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": true,
+                "max_htlc_m_atoms": "2966025000",
+                "last_update": 1641698631
+            }
+        },
+        {
+            "channel_id": "577000612513054721",
+            "chan_point": "cdaeee57364fec31b9ec782aef75c92668ce70b2304d79ef1b14d71d95aab2a3:1",
+            "last_update": 1641698631,
+            "node1_pub": "036527574e74b3d12ec4875d4d8004a6c35a01bd18fe87c21fd4d98be3572ad83e",
+            "node2_pub": "03f2c91b29337de58a95ca90165b13a10e46e83b621cdf660ea30deeff127d44d1",
+            "capacity": "594682",
+            "node1_policy": null,
+            "node2_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": true,
+                "max_htlc_m_atoms": "588736000",
+                "last_update": 1641698631
+            }
+        },
+        {
+            "channel_id": "577003911051280384",
+            "chan_point": "6d1753ee698665cfc1fd989859c585c794bafa054312b20fd6ac4c640ae2eada:0",
+            "last_update": 1666784201,
+            "node1_pub": "036527574e74b3d12ec4875d4d8004a6c35a01bd18fe87c21fd4d98be3572ad83e",
+            "node2_pub": "03ec729b8d558ce05455525577eec5872e104bd1ee52b69c744e7d61a6765fbc1c",
+            "capacity": "3735304",
+            "node1_policy": null,
+            "node2_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": true,
+                "max_htlc_m_atoms": "3697951000",
+                "last_update": 1666784201
+            }
+        },
+        {
+            "channel_id": "592811589720670209",
+            "chan_point": "6726049adf4745ad814331b1e0e1423fa8047f0e5575ead0e772823d2e5cbb5b:1",
+            "last_update": 1666703201,
+            "node1_pub": "030a560935cd5d27ade70c7d45d61c46a5cccaacbf26ecfe26886755c622f72fce",
+            "node2_pub": "03ec729b8d558ce05455525577eec5872e104bd1ee52b69c744e7d61a6765fbc1c",
+            "capacity": "21100000",
+            "node1_policy": null,
+            "node2_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": true,
+                "max_htlc_m_atoms": "20889000000",
+                "last_update": 1666703201
+            }
+        },
+        {
+            "channel_id": "599867155835912192",
+            "chan_point": "e20414f3167539c361f9e0d23fdadf126cb8c8b9be027b13b44c5fe7e1a6bc18:0",
+            "last_update": 1666705001,
+            "node1_pub": "03ec729b8d558ce05455525577eec5872e104bd1ee52b69c744e7d61a6765fbc1c",
+            "node2_pub": "03f2c91b29337de58a95ca90165b13a10e46e83b621cdf660ea30deeff127d44d1",
+            "capacity": "40000000",
+            "node1_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": true,
+                "max_htlc_m_atoms": "39600000000",
+                "last_update": 1666705001
+            },
+            "node2_policy": null
+        },
+        {
+            "channel_id": "629618840972558337",
+            "chan_point": "3eccf5784f0dffca96360ceb124e5afc10d86d3779e5b1a549901e67b724d3fc:1",
+            "last_update": 1666710401,
+            "node1_pub": "034585e47c97c3fa4fccd29e07edfcb8ea39b20f00e5e414033cb9f26a9beb79b9",
+            "node2_pub": "03ec729b8d558ce05455525577eec5872e104bd1ee52b69c744e7d61a6765fbc1c",
+            "capacity": "57490",
+            "node1_policy": null,
+            "node2_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": true,
+                "max_htlc_m_atoms": "56916000",
+                "last_update": 1666710401
+            }
+        },
+        {
+            "channel_id": "630187288484052993",
+            "chan_point": "cf6af106d70c8a9ba6c9e4c8750f13452c04541a4fcc5ee61d50e456ea1dc967:1",
+            "last_update": 1671515763,
+            "node1_pub": "02942be3f075e3756758676b812edd01d0489590794fad326c5b61bbca742d8b8c",
+            "node2_pub": "03f2c91b29337de58a95ca90165b13a10e46e83b621cdf660ea30deeff127d44d1",
+            "capacity": "119356887",
+            "node1_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": true,
+                "max_htlc_m_atoms": "118163319000",
+                "last_update": 1671515763
+            },
+            "node2_policy": null
+        },
+        {
+            "channel_id": "793194285348618240",
+            "chan_point": "8cce3406df1131f20f2015c484ff68b2009f36d409837b94db3b1df322fba003:0",
+            "last_update": 1678869944,
+            "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
+            "node2_pub": "0362c993b027256a45333ac664f112fd78bb9e730acae0b315782638b48bdd68ca",
+            "capacity": "1000000",
+            "node1_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": false,
+                "max_htlc_m_atoms": "990000000",
+                "last_update": 1678869944
+            },
+            "node2_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": false,
+                "max_htlc_m_atoms": "990000000",
+                "last_update": 1678869913
+            }
+        },
+        {
+            "channel_id": "808065180113108993",
+            "chan_point": "d5d678ed38d4cf05c3fcd78b9ad3b0364f389fd08ab6b2f7f560f88ec228bb3c:1",
+            "last_update": 1678876548,
+            "node1_pub": "02474eca009675327264a9e8c349a9b8e361049fd809244a048afb1d2411ffe98b",
+            "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
+            "capacity": "1000000",
+            "node1_policy": null,
+            "node2_policy": {
+                "time_lock_delta": 80,
+                "min_htlc": "1000",
+                "fee_base_m_atoms": "1000",
+                "fee_rate_milli_m_atoms": "1",
+                "disabled": true,
+                "max_htlc_m_atoms": "990000000",
+                "last_update": 1678876548
+            }
+        }
+    ]
+}
