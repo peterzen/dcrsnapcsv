@@ -24,7 +24,7 @@ configUrl = "https://dex.decred.org/api/config"
 response = requests.get(configUrl)
 data = response.json()
 # extract asset list
-assets = pd.DataFrame.from_dict(data['assets']).set_index('id')
+assets = pd.json_normalize(data['assets']).set_index('id')
 # extract markets list
 markets = pd.DataFrame.from_dict(data['markets'])
 # replace base with strings
@@ -64,7 +64,12 @@ spots.to_csv(filename,index=False)
 del data, response
 # grab book data
 for index, row in markets.iterrows():
+    # get market name
     marketName = str(row['name'])
+    # get base asset dividing factor
+    baseAssetData = assets.loc[assets.symbol==row['base']]
+    baseAssetFactor = int(baseAssetData['unitinfo.conventional.conversionFactor'])
+    # create url for this market
     booksUrl = "https://dex.decred.org/api/orderbook/" + row.base + '/' + row.quote
     response = requests.get(booksUrl)
     data = response.json()
@@ -74,7 +79,7 @@ for index, row in markets.iterrows():
         # drop stamp column
         books = books.drop(columns=['oid', 'seq', 'marketid', 'tif'])
         books['time'] = pd.to_datetime(books['time'], unit='ms')
-        books['qty'] = books['qty'] / 100000000
+        books['qty'] = books['qty'] / baseAssetFactor
         books = books.sort_values(by='rate', ascending=False)
         # path for saving the data
         pathStr = basePathStr + '/orderbook/' + marketName + '/' + yearMonthStr
