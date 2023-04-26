@@ -53,6 +53,10 @@ jobs:
         if: always()
         run: python stream_hashDist.py
 
+      - name: execute dex script # run dex_decred_org.py to get the hashrate stream
+        if: always()
+        run: python dex_decred_org.py
+
       - name: commit files
         if: always()
         run: |
