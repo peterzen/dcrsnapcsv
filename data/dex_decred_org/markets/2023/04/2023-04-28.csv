@@ -1,0 +1,8 @@
+name,base,quote,epochlen,lotsize,ratestep,buybuffer,status
+dcr_usdc.eth,dcr,usdc.eth,6000,2000000000,1000,1.2,{'startepoch': 280306180}
+btc_usdc.eth,btc,usdc.eth,7000,2500000,10000,1.2,{'startepoch': 240262440}
+dcr_btc,dcr,btc,10000,4000000000,100,1.25,{'startepoch': 168183708}
+dcr_ltc,dcr,ltc,7000,200000000,1000,1.25,{'startepoch': 240262440}
+ltc_btc,ltc,btc,8000,600000000,100,1.25,{'startepoch': 210229635}
+doge_btc,doge,btc,6000,400000000000,1,1.25,{'startepoch': 280306180}
+eth_btc,eth,btc,7000,400000000,10,1.2,{'startepoch': 240262440}
