@@ -46,13 +46,20 @@ response = requests.get(spotsUrl)
 data = response.json()
 # extract asset list
 spots = pd.DataFrame.from_dict(data)
+# conversion factor for volume
+for index, row in spots.iterrows():
+    baseAssetData = assets.loc[assets.index == row['baseID']]
+    baseAssetFactor = int(baseAssetData['unitinfo.conventional.conversionFactor'])
+    spots.at[index, 'vol24'] = spots.at[index, 'vol24'] / baseAssetFactor
 # replace base with strings
 spots['baseID'] = spots['baseID'].apply(lambda x: assets.loc[x].symbol)
 # replace quote with strings
 spots['quoteID'] = spots['quoteID'].apply(lambda x: assets.loc[x].symbol)
 spots['date'] = pd.to_datetime(spots['stamp'],unit='ms')
+print(spots)
 # drop stamp column
 spots = spots.drop(columns=['stamp'])
+
 # path for saving the data
 pathStr = basePathStr + '/spots/' + yearMonthStr
 if not os.path.exists(pathStr):
