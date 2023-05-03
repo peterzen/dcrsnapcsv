@@ -39,6 +39,20 @@ filename = pathStr + todayStr + '.csv'
 # save to csv
 markets.to_csv(filename,index=False)
 
+# grab price data for every asset
+baseURL = "https://api.binance.com/api/v3/avgPrice?symbol="
+for index, row in assets.iterrows():
+    del data, response
+    # check if the symbol includes the base network (e.g. .eth)
+    if "." in row.symbol:
+        xSymbol = row.symbol.split(".", 1)[0]
+    else:
+        xSymbol = row.symbol
+    priceURL = "https://api.binance.com/api/v3/avgPrice?symbol=" + xSymbol.upper() + 'USDT'
+    response = requests.get(priceURL)
+    data = response.json()
+    assets.at[index, 'PriceUSDT'] = data['price']
+
 # grab spots data
 del data, response
 spotsUrl = "https://dex.decred.org/api/spots"
@@ -51,6 +65,9 @@ for index, row in spots.iterrows():
     baseAssetData = assets.loc[assets.index == row['baseID']]
     baseAssetFactor = int(baseAssetData['unitinfo.conventional.conversionFactor'])
     spots.at[index, 'vol24'] = spots.at[index, 'vol24'] / baseAssetFactor
+    baseAssetPriceUSDT = float(baseAssetData['PriceUSDT'].values[0])
+    spots.at[index, 'vol24USDT'] = spots.at[index, 'vol24'] * baseAssetPriceUSDT
+
 # replace base with strings
 spots['baseID'] = spots['baseID'].apply(lambda x: assets.loc[x].symbol)
 # replace quote with strings
@@ -97,3 +114,4 @@ for index, row in markets.iterrows():
         books.to_csv(filename,index=False)
     # add a pause
     time.sleep(1)
+
