@@ -52,6 +52,7 @@ for index, row in assets.iterrows():
     response = requests.get(priceURL)
     data = response.json()
     assets.at[index, 'PriceUSDT'] = data['price']
+    time.sleep(2)
 
 # grab spots data
 del data, response
