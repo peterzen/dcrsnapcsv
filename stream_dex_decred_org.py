@@ -12,7 +12,7 @@ import os
 dateStart = dt.date(int(2023),int(5),int(1))
 dateEnd = dt.date.today()
 # file path
-sPath = 'data/stream/dex_decred_org_VolUSDT.csv'
+sPath = 'data/stream/dex_decred_org_VolUSD.csv'
 # remove existing file
 if os.path.isfile(sPath):
     os.remove(sPath)
@@ -30,7 +30,7 @@ while datex <= dateEnd:
         df = pd.read_csv(fPath)
         df['market'] = df['baseID'] + "_" + df['quoteID']
         # copy only needed columns
-        rawdf = df[['market', 'vol24USDT']].copy()
+        rawdf = df[['market', 'vol24USD']].copy()
         # set pool as index
         rawdf = rawdf.set_index('market')
         # transpose

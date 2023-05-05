@@ -1,4 +1,4 @@
-baseID,quoteID,rate,bookVolume,change24,vol24,high24,low24,date,vol24USDT
+baseID,quoteID,rate,bookVolume,change24,vol24,high24,low24,date,vol24USD
 ltc,btc,312100,0,0.0,0,312100,312100,2023-05-02 02:00:48.023,0
 dcr,btc,63800,0,0.0,1160,64300,62000,2023-05-02 02:00:50.026,20427.6
 doge,btc,0,0,0.0,0,0,0,2023-05-02 02:00:48.023,0

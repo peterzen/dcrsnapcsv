@@ -1,4 +1,4 @@
-baseID,quoteID,rate,bookVolume,change24,vol24,high24,low24,date,vol24USDT
+baseID,quoteID,rate,bookVolume,change24,vol24,high24,low24,date,vol24USD
 doge,btc,0,0,0.0,0,0,0,2023-05-03 02:00:12.023,0
 dcr,usdc.eth,21097000,0,0.0,0,21097000,21097000,2023-05-03 02:00:12.020,0
 btc,usdc.eth,29525450000,0,0.0,0,29525450000,29525450000,2023-05-03 02:00:16.021,0
