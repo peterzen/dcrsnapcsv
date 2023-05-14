@@ -99,7 +99,7 @@ for index, row in markets.iterrows():
     books = pd.DataFrame.from_dict(data['orders'])
     if not books.empty:
         # drop stamp column
-        books = books.drop(columns=['oid', 'seq', 'marketid', 'tif'])
+        books = books[['side', 'qty','rate','time']].copy()
         books['time'] = pd.to_datetime(books['time'], unit='ms')
         books['qty'] = books['qty'] / baseAssetFactor
         books = books.sort_values(by='rate', ascending=False)
