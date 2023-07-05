@@ -1,0 +1,6 @@
+pool_id,url,hashrate,miners,minpay,id,feetype,workers,income,i_blocks,blocks_nr,lastblock,lastblocktime,blocks_1000,blocks_count,hashrate_average_100_count,hashrate_average_100hashrate_average_1h,hashrate_average_7d,hashrate_average_7d_count,expected_blocks,luck
+poolin.com,https://www.poolin.com,19789000000000000,-1,0.01,3,PPS,915,5.65723e-15,0,15,778419,1688521744,367,31,81,0,20095114732142864,168,32.1,-1.0958133997587396
+okx.com,https://www.okx.com/pool,0,-1,-1,23,PPLNS,0,0,0,0,630904,0,0,0,81,0,0,168,0,0
+pool.btc.com,https://pool.btc.com,3551000000000000,-1,0.1,4,PPS,82,4.6363637410373004e-15,15329,10,778377,1688508644,50,6,81,0,3237456203005951.5,168,5.73,0.27406175837059
+f2pool.com,https://www.f2pool.com,26911031020338484,-1,0.1,14,PPS%3,0,4.3812968809752255e-15,0,13,778423,1688523542,410,48,81,0,25748698131726172,168,44.67,3.3283152556337114
+antpool.com,https://antpool.com,10000000000000000,-1,0.1,28,PPS%3,0,0,0,50,778410,1688518425,172,14,81,0,9962212405999994,168,16.51,-2.5065636142455574
