@@ -1,7 +1,7 @@
 {
     "nodes": [
         {
-            "last_update": 1691055088,
+            "last_update": 1691141488,
             "pub_key": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "alias": "El Gran Bisonte ⚡🐂⚡",
             "addresses": [
@@ -788,7 +788,7 @@
             }
         },
         {
-            "last_update": 1690860199,
+            "last_update": 1691126265,
             "pub_key": "0223017115ecbf026e8327cac9aceeb7e502683166f5721cbf6b7e07a358907e93",
             "alias": "0223017115ecbf026e83",
             "addresses": [
@@ -3838,7 +3838,7 @@
             }
         },
         {
-            "last_update": 1691045062,
+            "last_update": 1691131462,
             "pub_key": "02c502b5a0f3345f22f660ffce1a925f23a0ec7e08261e5413e93a88b911342ecc",
             "alias": "02c502b5a0f3345f22f6",
             "addresses": [
@@ -4018,7 +4018,7 @@
             }
         },
         {
-            "last_update": 1691037884,
+            "last_update": 1691124286,
             "pub_key": "02d7cd0d86afec9921af948998c8788cea7b81bb7c1b567a32b646feb86d88863d",
             "alias": "02d7cd0d86afec9921af",
             "addresses": [
@@ -5966,7 +5966,7 @@
             }
         },
         {
-            "last_update": 1691043020,
+            "last_update": 1691131203,
             "pub_key": "0342eb8f2335b0aae3237162e73c5549666f23e049863105297c0ebbec2dbb09a2",
             "alias": "0342eb8f2335b0aae323",
             "addresses": [
@@ -8443,7 +8443,7 @@
             }
         },
         {
-            "last_update": 1691049755,
+            "last_update": 1691135699,
             "pub_key": "03dcb813ed46de74aa2cf1c36e49ddbeb58f87feb282b0edc9fd4c0d1b06c7ccf3",
             "alias": "03dcb813ed46de74aa2c",
             "addresses": [
@@ -8762,7 +8762,7 @@
             }
         },
         {
-            "last_update": 1691056219,
+            "last_update": 1691142619,
             "pub_key": "03eeaed46280cb56ef3a09593dc88982c5f3c974e776949fa02ae21436aee0c7c5",
             "alias": "magneton 🧲⚡",
             "addresses": [
@@ -9492,7 +9492,7 @@
         {
             "channel_id": "578217771884937217",
             "chan_point": "4107e623f30fe79ff65e21cb97f98a14f5400e5c5561331b3c5db8dc696ef071:1",
-            "last_update": 1691055088,
+            "last_update": 1691141488,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "03ec729b8d558ce05455525577eec5872e104bd1ee52b69c744e7d61a6765fbc1c",
             "capacity": "200000000",
@@ -9503,14 +9503,14 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691055088
+                "last_update": 1691141488
             },
             "node2_policy": null
         },
         {
             "channel_id": "578235364071047168",
             "chan_point": "921b9aa686c651e8c18710bce7c2297c5ef9bc2de7ec34915bcd8f467a2aafbd:0",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "03f2c91b29337de58a95ca90165b13a10e46e83b621cdf660ea30deeff127d44d1",
             "capacity": "100000000",
@@ -9521,14 +9521,14 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": null
         },
         {
             "channel_id": "581217239606427649",
             "chan_point": "1038d5e5928f6f094ed30b235c2b213329c92995114ae04dc5374fe7a5769e49:1",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "021c3fe413817e2ee373c62e11467a0b6a82b54db8921eeea23e5b64068cac4e1d",
             "capacity": "596188",
@@ -9539,14 +9539,14 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "590227000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": null
         },
         {
             "channel_id": "581879145605431297",
             "chan_point": "9fab9208f4e28a28be704fda30bf1abd34cbd396ecfda1c8d571c6ddc0ee3a3c:1",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "03ea6dfff9e1cb747ff426da64bc849b60788864e6ca5e5ac746245273ddd7042a",
             "capacity": "5996782",
@@ -9557,7 +9557,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "5936815000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": null
         },
@@ -9608,7 +9608,7 @@
         {
             "channel_id": "592811589720735745",
             "chan_point": "548e769fd4c081859c7d662719f9aaf0bcbd0e901850f613206d409063a88405:1",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "03fed78c47189c16f829de6869330f4ac38050eee4e3f460b22da676808e3c88a6",
             "capacity": "20000000",
@@ -9619,14 +9619,14 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "19800000000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": null
         },
         {
             "channel_id": "594625783906107392",
             "chan_point": "68f5d67bc58ad76144af738fdc8b27fbde1bb0a541a0773bb1ef705307396a9b:0",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "03d29d88ed769a6f040e74788571299f16c0d46a1831277c7bbf7679750a941568",
             "capacity": "200000",
@@ -9637,7 +9637,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "198000000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": null
         },
@@ -9662,7 +9662,7 @@
         {
             "channel_id": "619011852300124160",
             "chan_point": "6ea8015b7ca7dec33ecdbf17731c6bfd51a8073ae0b696910bee0781d72cecc7:0",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "03ea6dfff9e1cb747ff426da64bc849b60788864e6ca5e5ac746245273ddd7042a",
             "capacity": "10000000",
@@ -9673,14 +9673,14 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": null
         },
         {
             "channel_id": "629618840972492801",
             "chan_point": "2f7c385951d2b2287ca2a2149f5ce4d8f06a792463d2f786792a36ec1294cb70:1",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "034585e47c97c3fa4fccd29e07edfcb8ea39b20f00e5e414033cb9f26a9beb79b9",
             "capacity": "500000",
@@ -9691,7 +9691,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "495000000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": null
         },
@@ -9716,7 +9716,7 @@
         {
             "channel_id": "629660622414020608",
             "chan_point": "40b03a01e063623e8dc0b1e5593ece37753d16c2acf7d6c0624957da8a92159c:0",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "02942be3f075e3756758676b812edd01d0489590794fad326c5b61bbca742d8b8c",
             "capacity": "1000000",
@@ -9727,7 +9727,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": null
         },
@@ -9752,7 +9752,7 @@
         {
             "channel_id": "684010581687664640",
             "chan_point": "0888017b85f55fd3755e4a5a54c246aa5adbfa81f5ba09b145684920a4e5622a:0",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "03ea6dfff9e1cb747ff426da64bc849b60788864e6ca5e5ac746245273ddd7042a",
             "capacity": "10000000",
@@ -9763,14 +9763,14 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": null
         },
         {
             "channel_id": "704243794660687873",
             "chan_point": "e3bc63e4e8149b349a6db58d78b275064056270de3d2fdd57f79ee4bd8156bd7:1",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "0336c9b68f15d5dda93e9747c9dc64cb7f8dc56800bbe2d065f18789c39c1039e0",
             "capacity": "9000000",
@@ -9781,14 +9781,14 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "8910000000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": null
         },
         {
             "channel_id": "705113508357931008",
             "chan_point": "e4d8560a591d1f3b3788a5ea5d67323080c84e3f162d55021e97daee9f97850e:0",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "02949084e91a451134a7e9910dda0f2ade46c552e913e0429f90ce307ebaa87db2",
             "capacity": "1000000",
@@ -9799,7 +9799,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": null
         },
@@ -9910,7 +9910,7 @@
         {
             "channel_id": "716194386543247361",
             "chan_point": "08bf3aeea76764cbcd5e1a2ef81b6b1f7aa888eb72e4274ba38faca078d87baa:1",
-            "last_update": 1691106696,
+            "last_update": 1691112536,
             "node1_pub": "033c8d18df6a62acb3eda5d385a962ca3e34055d05421191ad4eeff58aefa06ed8",
             "node2_pub": "035367ba8ce27b52d1bcc6af833bb38b446e920b4b8e3ff6ee47e9a56a6b71fe54",
             "capacity": "200000000",
@@ -9921,7 +9921,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691026136
+                "last_update": 1691112536
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -9936,7 +9936,7 @@
         {
             "channel_id": "716194386543312897",
             "chan_point": "93071d0fca4b5510d1aeaa84efcb9be4d6f09177156ea6a1441e7015cee21016:1",
-            "last_update": 1691081745,
+            "last_update": 1691115994,
             "node1_pub": "022c41a397814c015510e25161842475b3666efbdee2645399359bb135bd0abc9f",
             "node2_pub": "03d59c3acef408f54870b4f06d18007ca069c6c7bce913d36aae79219c8f46b9d3",
             "capacity": "200000000",
@@ -9947,7 +9947,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691029594
+                "last_update": 1691115994
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -9962,7 +9962,7 @@
         {
             "channel_id": "716194386543378433",
             "chan_point": "d7ee80e77fac5d1ce59490faa086cc963305b0d135b6322034970f5af650eff9:1",
-            "last_update": 1691055311,
+            "last_update": 1691141711,
             "node1_pub": "0340b65798a6bf46af88dfc20b70eccb100793cc0d704b2b487a67bfdee1ae7f7c",
             "node2_pub": "03d59c3acef408f54870b4f06d18007ca069c6c7bce913d36aae79219c8f46b9d3",
             "capacity": "200000000",
@@ -9973,7 +9973,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691055311
+                "last_update": 1691141711
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -9982,13 +9982,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691054745
+                "last_update": 1691141145
             }
         },
         {
             "channel_id": "716211978728898560",
             "chan_point": "7b451f7899d26e577557fd832a6dc52d52695cae5c06532562d5716f5befb12a:0",
-            "last_update": 1691056888,
+            "last_update": 1691143288,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "033c8d18df6a62acb3eda5d385a962ca3e34055d05421191ad4eeff58aefa06ed8",
             "capacity": "200000000",
@@ -9999,7 +9999,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691056888
+                "last_update": 1691143288
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -10008,7 +10008,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691056736
+                "last_update": 1691143136
             }
         },
         {
@@ -10066,7 +10066,7 @@
         {
             "channel_id": "716216376775475200",
             "chan_point": "c99f54a37b1086f7eaf2cddb4e2a03d2672b109df2dd5dfc243d02c6eb342c00:0",
-            "last_update": 1691055311,
+            "last_update": 1691141711,
             "node1_pub": "033c8d18df6a62acb3eda5d385a962ca3e34055d05421191ad4eeff58aefa06ed8",
             "node2_pub": "0340b65798a6bf46af88dfc20b70eccb100793cc0d704b2b487a67bfdee1ae7f7c",
             "capacity": "200000000",
@@ -10077,7 +10077,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691054936
+                "last_update": 1691141336
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -10086,7 +10086,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691055311
+                "last_update": 1691141711
             }
         },
         {
@@ -10118,7 +10118,7 @@
         {
             "channel_id": "749736088260313088",
             "chan_point": "913110f0e15567a881a23b869a02e0064383616c33355ad29f0c052dc76068d0:0",
-            "last_update": 1691024925,
+            "last_update": 1691111325,
             "node1_pub": "0221d5de42faf9b73facdde4048e945ed586e8f576f0613117d7e1f4a974812cd4",
             "node2_pub": "03f3807a1eaa8f76e6ce76ba666d8399db127c49523b2990db8328842cc1828668",
             "capacity": "1000000",
@@ -10129,7 +10129,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691024925
+                "last_update": 1691111325
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -10170,7 +10170,7 @@
         {
             "channel_id": "749750381911605248",
             "chan_point": "aa7ed81bc388e7596febe13dad2f654c55dc15ed1ebd3586331e0f9f0eb645a1:0",
-            "last_update": 1691026120,
+            "last_update": 1691112520,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03f3807a1eaa8f76e6ce76ba666d8399db127c49523b2990db8328842cc1828668",
             "capacity": "1000000",
@@ -10181,7 +10181,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691026120
+                "last_update": 1691112520
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -10222,7 +10222,7 @@
         {
             "channel_id": "751265508934680577",
             "chan_point": "fec9cdcedb4b0fa320487ec7e68a591d9559b929924345f1348075856a92ea75:1",
-            "last_update": 1691044120,
+            "last_update": 1691130520,
             "node1_pub": "037603c8c2cdedb9f9f188f046cc0686fa8a0dafb89395106e6dcea659c1d9445e",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "19000000",
@@ -10242,7 +10242,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "18810000000",
-                "last_update": 1691044120
+                "last_update": 1691130520
             }
         },
         {
@@ -10274,7 +10274,7 @@
         {
             "channel_id": "753996695818403840",
             "chan_point": "cb2ef25733a863333da6c05076293edc46b19dbc92dc2fbd4824960dcb69b9fe:0",
-            "last_update": 1691045920,
+            "last_update": 1691132320,
             "node1_pub": "036fa0dcbeb7d0e2947a7e9a3128d4a44d9af5b00daf9ca0a6c0724f4da4c1cbe9",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "12000000",
@@ -10294,13 +10294,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "11880000000",
-                "last_update": 1691045920
+                "last_update": 1691132320
             }
         },
         {
             "channel_id": "754470585328795648",
             "chan_point": "c1069cacd5b566d5911c7e4c47c3526243e29c1dd2f4b5fda13022ce45da461d:0",
-            "last_update": 1691083749,
+            "last_update": 1691132320,
             "node1_pub": "02f90b47336316ee2d04a4801983299fdfa2fe671e5d187009998931b70e5211f6",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -10320,7 +10320,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691045920
+                "last_update": 1691132320
             }
         },
         {
@@ -10430,7 +10430,7 @@
         {
             "channel_id": "765182027606851585",
             "chan_point": "579f23222d868d7f8881f17e69111f42e1845ba31348b6987c313c44547444da:1",
-            "last_update": 1691051320,
+            "last_update": 1691137720,
             "node1_pub": "030974578662f7d2a3b070b70b41f3ba154e711ce07dffcce713a818070036b694",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "5000000",
@@ -10450,13 +10450,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691051320
+                "last_update": 1691137720
             }
         },
         {
             "channel_id": "765212813932625920",
             "chan_point": "09eeac0ca580124ed5613237b5d7023fe2a3c6ee897c7c74561fc5085b4cc11c:0",
-            "last_update": 1691101390,
+            "last_update": 1691122402,
             "node1_pub": "035663029fb750ae3ae4c10a01f80df01547040397599868c2fd6e9a00bbf252c8",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -10476,13 +10476,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             }
         },
         {
             "channel_id": "767349165025329152",
             "chan_point": "11f39ac69dec22cf58de14ce38820c60ce9ad10d170092ac25a04d8c937cae3d:0",
-            "last_update": 1691036002,
+            "last_update": 1691122402,
             "node1_pub": "02441c0826d264328eac5e70832b96f80dd9634d78a5b5e92b55dd44fc2f8d30a1",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -10502,13 +10502,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             }
         },
         {
             "channel_id": "767635038048944129",
             "chan_point": "4896c94e07223d89f88a8d4c758a88e9c04e31fe0fe68966f4370943ab2dc0d8:1",
-            "last_update": 1691062739,
+            "last_update": 1691122402,
             "node1_pub": "0366033780fc72f864551f5b245a95620b2e539e54f8174023b7c4ce9b6ac3dccd",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "10000000",
@@ -10528,7 +10528,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             }
         },
         {
@@ -10586,7 +10586,7 @@
         {
             "channel_id": "792354258464145408",
             "chan_point": "c447a7c2265be9795a1b1eed44590577102a52d6f1c76edf7a22af1884bddf37:0",
-            "last_update": 1691029720,
+            "last_update": 1691116120,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03c17c361c9d4d7d343c8047b6b9a7fe162b818c47f4c7978571156a303eebf736",
             "capacity": "10000000",
@@ -10597,7 +10597,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691029720
+                "last_update": 1691116120
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -10638,7 +10638,7 @@
         {
             "channel_id": "792365253580947456",
             "chan_point": "7326efc863f57d27a68e8b2786e51dd81881626dc9ef75c6f62f8d71640443f1:0",
-            "last_update": 1691036002,
+            "last_update": 1691122402,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03c17c361c9d4d7d343c8047b6b9a7fe162b818c47f4c7978571156a303eebf736",
             "capacity": "10000000",
@@ -10649,7 +10649,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -10664,7 +10664,7 @@
         {
             "channel_id": "792367452603547649",
             "chan_point": "29ebf8b66b66daf4f2940a87af322c822854f5c50f9f45a199dd85e2420e8d20:1",
-            "last_update": 1691024320,
+            "last_update": 1691110720,
             "node1_pub": "03308d3e7ae8ccdea496a28eb110e536f43353147e9661285ba0b653408c8661b7",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "50000000",
@@ -10684,7 +10684,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "49500000000",
-                "last_update": 1691024320
+                "last_update": 1691110720
             }
         },
         {
@@ -10716,7 +10716,7 @@
         {
             "channel_id": "792371850650124288",
             "chan_point": "42bb0dc2848326b2d0b76320035915e2a0350f0a96758ab8139424f9394d1b24:0",
-            "last_update": 1691036002,
+            "last_update": 1691122402,
             "node1_pub": "03308d3e7ae8ccdea496a28eb110e536f43353147e9661285ba0b653408c8661b7",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "10000000",
@@ -10736,7 +10736,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             }
         },
         {
@@ -10768,7 +10768,7 @@
         {
             "channel_id": "792378447720087553",
             "chan_point": "f3caec6cc7f746d570a7f5d9bd23f961599b2775417cf90fb58b47c24957132e:1",
-            "last_update": 1691036002,
+            "last_update": 1691122402,
             "node1_pub": "02474eca009675327264a9e8c349a9b8e361049fd809244a048afb1d2411ffe98b",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "10000000",
@@ -10788,13 +10788,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             }
         },
         {
             "channel_id": "792381746254643200",
             "chan_point": "209f0b2f55d10bdc6a02eddee9d9a4d8fa67745a8b56d7cf9d38bb847370b5ba:0",
-            "last_update": 1691036002,
+            "last_update": 1691122402,
             "node1_pub": "021f5400565c6189b0d6e95c9b9093368f30b7e9076eb8e1692093187435dbfad5",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "899999",
@@ -10814,7 +10814,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "891000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             }
         },
         {
@@ -10846,7 +10846,7 @@
         {
             "channel_id": "792469707185258496",
             "chan_point": "3c3b3787b4b4d4cbe58ee37f966f0aa23b9fe2f985824ac54a0a980b5c33709d:0",
-            "last_update": 1691033320,
+            "last_update": 1691119720,
             "node1_pub": "0394934344798c13449330051afb9b2f3a464bdccba5ac05105f99d2e03d23fae7",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -10866,7 +10866,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691033320
+                "last_update": 1691119720
             }
         },
         {
@@ -10924,7 +10924,7 @@
         {
             "channel_id": "792544473976274944",
             "chan_point": "66cf5a53d0c1945bd4266615afb5829baf866f7ffd2097f8da4973f3393d32eb:0",
-            "last_update": 1691036002,
+            "last_update": 1691122402,
             "node1_pub": "0221679def0ea43d39f46181a8025d09190bb07703e9a3bb31e22db26fc6e1be4d",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "10000000",
@@ -10944,7 +10944,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             }
         },
         {
@@ -10976,7 +10976,7 @@
         {
             "channel_id": "792577459325108224",
             "chan_point": "14dc63e6cf495a6c1e68ee2b35c2e47f5d7cb31d32144ca2c573378d2f85df8e:0",
-            "last_update": 1691093475,
+            "last_update": 1691122402,
             "node1_pub": "02a8ab29bfe954e1471311644e0aca2a14f29766d0c11611583944302a11adb435",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "5000000",
@@ -10996,13 +10996,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             }
         },
         {
             "channel_id": "792590653463920641",
             "chan_point": "f77cf0784c3dfbd971c66c13d9af9cc2ed8b6b4815d5f980ae1961eb046ed395:1",
-            "last_update": 1691026120,
+            "last_update": 1691112520,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03e2b2a4336487b7d2d7d87e859bd0509ec8bc763ea5b6b9ece9daf9a212f38146",
             "capacity": "5000000",
@@ -11013,7 +11013,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691026120
+                "last_update": 1691112520
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -11054,7 +11054,7 @@
         {
             "channel_id": "792665420254478336",
             "chan_point": "109ec2a6d936253affb1fa2207c6ef58dd045e7a9d1514dfcb62ed07cabfefca:0",
-            "last_update": 1691036002,
+            "last_update": 1691122402,
             "node1_pub": "02f1a8b8d244d4ab76a4de2d533d1226c24457a862933db2ef11de2cb68b9c7b9e",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "5000000",
@@ -11074,7 +11074,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             }
         },
         {
@@ -11106,7 +11106,7 @@
         {
             "channel_id": "792724793882443776",
             "chan_point": "4b050dcc7a1815af004c390ae3fde274bbd8b752a3a89024a84fc17f68b71243:0",
-            "last_update": 1691036002,
+            "last_update": 1691122402,
             "node1_pub": "02c22d08177dd355ae4d91ae7588b5b1d4f57d3fdf0a67cb4a7e97fcbd8d3b7f08",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "10000000",
@@ -11126,13 +11126,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             }
         },
         {
             "channel_id": "792733589975597057",
             "chan_point": "3a47580f9c172ad137bee62df6cd553aef24ac34395851d51c518c043b5f8310:1",
-            "last_update": 1691044120,
+            "last_update": 1691130520,
             "node1_pub": "02e35ed6fedac4d6bd995016ccac5e1b5a4f59cf3554ee1f3539ebca5084472994",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "25000000",
@@ -11152,7 +11152,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "24750000000",
-                "last_update": 1691044120
+                "last_update": 1691130520
             }
         },
         {
@@ -11184,7 +11184,7 @@
         {
             "channel_id": "792801759696977920",
             "chan_point": "cfc9421777ae301e3cdd243f315227be5e1b2eb2361d2b1d88688a37649bfcd8:0",
-            "last_update": 1691037802,
+            "last_update": 1691124202,
             "node1_pub": "02e35ed6fedac4d6bd995016ccac5e1b5a4f59cf3554ee1f3539ebca5084472994",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "10000000",
@@ -11204,13 +11204,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691037802
+                "last_update": 1691124202
             }
         },
         {
             "channel_id": "792801759697043456",
             "chan_point": "394e53a0d745e5c4e990bca7a9c0e67ebe4a971ffcc15b57b9f203662edae399:0",
-            "last_update": 1691044120,
+            "last_update": 1691130520,
             "node1_pub": "02e35ed6fedac4d6bd995016ccac5e1b5a4f59cf3554ee1f3539ebca5084472994",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -11230,13 +11230,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691044120
+                "last_update": 1691130520
             }
         },
         {
             "channel_id": "792819351883284480",
             "chan_point": "0e346901f8fadfb5ea4bedbde1972991881f98589b1d6ea9a7a1e55039decee8:0",
-            "last_update": 1691037802,
+            "last_update": 1691124202,
             "node1_pub": "02195d6dd885fec08a57a9a7d977d0a1ea6fa4a1bcebfb163339195fce8cb03d31",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1500000",
@@ -11256,13 +11256,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "1485000000",
-                "last_update": 1691037802
+                "last_update": 1691124202
             }
         },
         {
             "channel_id": "792820451394256896",
             "chan_point": "97552265c43d825600ee1246caf804f162cf9701b1176055d56c1f96fce46911:0",
-            "last_update": 1691044120,
+            "last_update": 1691130520,
             "node1_pub": "02aab6051d7b1879c73ec3d29aee96deac62ae96114ba087f8276c83a3b8cad67e",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -11282,13 +11282,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691044120
+                "last_update": 1691130520
             }
         },
         {
             "channel_id": "792831446510993408",
             "chan_point": "bc0f6a9f3309da3a0dbc7d40710827ce72492021d45f68ee2da3ac7189661a30:0",
-            "last_update": 1691037802,
+            "last_update": 1691124202,
             "node1_pub": "02aab6051d7b1879c73ec3d29aee96deac62ae96114ba087f8276c83a3b8cad67e",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "5200000",
@@ -11308,13 +11308,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "5148000000",
-                "last_update": 1691037802
+                "last_update": 1691124202
             }
         },
         {
             "channel_id": "792835844557438976",
             "chan_point": "cb47f7f1e4b5e989cc4720ef22d9d32d7db2c577af61b5470c3abe2fc8678bca:0",
-            "last_update": 1691058520,
+            "last_update": 1691144920,
             "node1_pub": "0296fd737dfa6314c8be118633992fc8f773348fb62bba2a65acd28d7a039154e5",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -11334,13 +11334,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691058520
+                "last_update": 1691144920
             }
         },
         {
             "channel_id": "792844640650592256",
             "chan_point": "33b52210852a5f223756570e6a89d4afe20eb4782eb5650d66e23f38ae56c35c:0",
-            "last_update": 1691050484,
+            "last_update": 1691136886,
             "node1_pub": "02d7cd0d86afec9921af948998c8788cea7b81bb7c1b567a32b646feb86d88863d",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -11351,7 +11351,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691050484
+                "last_update": 1691136886
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -11360,13 +11360,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691040520
+                "last_update": 1691126920
             }
         },
         {
             "channel_id": "792846839673454592",
             "chan_point": "d4e160309e7260841d9c505f29e9f301f380634a1d83e84a362739204e72be48:0",
-            "last_update": 1691027920,
+            "last_update": 1691114320,
             "node1_pub": "024600f39445b258e3efed8fb1cd70ad84a5911ebcbc21835106c1f3301fcd693c",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -11386,7 +11386,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691027920
+                "last_update": 1691114320
             }
         },
         {
@@ -11574,7 +11574,7 @@
         {
             "channel_id": "793049149813096448",
             "chan_point": "3ba52b20f1fcbb7414ac8307f011906b6f7ff6dfcd23d628114bbbfa9ce71128:0",
-            "last_update": 1691056720,
+            "last_update": 1691143120,
             "node1_pub": "02263d0397c9a554809cf7c133522f5ec5adb1dca8f5e6ca2fc8ad6da9a90a0f55",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "5000000",
@@ -11594,13 +11594,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691056720
+                "last_update": 1691143120
             }
         },
         {
             "channel_id": "793093130278010881",
             "chan_point": "bead8057d8cdd86d085ce04c4d5b2d3918c2758cadabaff480618879677fad32:1",
-            "last_update": 1691056720,
+            "last_update": 1691143120,
             "node1_pub": "024f2e17067902c2f7d7bf3caa5a3f208c2b7a37602ce01882d468fb86ae20b52d",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "5000000",
@@ -11620,13 +11620,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691056720
+                "last_update": 1691143120
             }
         },
         {
             "channel_id": "793120618068443136",
             "chan_point": "5ab54ffc1a5613c2acbea3e56852ecd7b994c9009b9473f37121a24659b7596b:0",
-            "last_update": 1691037802,
+            "last_update": 1691124202,
             "node1_pub": "02263d0397c9a554809cf7c133522f5ec5adb1dca8f5e6ca2fc8ad6da9a90a0f55",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "5000000",
@@ -11646,13 +11646,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691037802
+                "last_update": 1691124202
             }
         },
         {
             "channel_id": "793186588766502912",
             "chan_point": "7ebca18755c47c6b2427bcf707261a366aff8296f30f2b062b2f2c57d26e8df8:0",
-            "last_update": 1691037802,
+            "last_update": 1691124202,
             "node1_pub": "031675627efbf26ee05aa2a8715811c18fe1a8423caa19857a5798fda50b0276e7",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "5000000",
@@ -11672,7 +11672,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691037802
+                "last_update": 1691124202
             }
         },
         {
@@ -11730,7 +11730,7 @@
         {
             "channel_id": "793188787789299712",
             "chan_point": "edf6d21c98138a099cccca11d464bd805cb650d4e863dbd1131cf8b4de7c89ee:0",
-            "last_update": 1691042320,
+            "last_update": 1691128720,
             "node1_pub": "03239d2df1ab4e1f625a52e9670432ec673f3befe7ffa3937476ecceae5ca5ea9f",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "100000",
@@ -11750,13 +11750,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000",
-                "last_update": 1691042320
+                "last_update": 1691128720
             }
         },
         {
             "channel_id": "793189887301713920",
             "chan_point": "55e5daff9e92ae5e89178360e1c6a29e3ef8484e5fc8c02648f54c8ce7ad5d3e:0",
-            "last_update": 1691044120,
+            "last_update": 1691130520,
             "node1_pub": "03239d2df1ab4e1f625a52e9670432ec673f3befe7ffa3937476ecceae5ca5ea9f",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -11776,13 +11776,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691044120
+                "last_update": 1691130520
             }
         },
         {
             "channel_id": "793194285348618240",
             "chan_point": "8cce3406df1131f20f2015c484ff68b2009f36d409837b94db3b1df322fba003:0",
-            "last_update": 1691109878,
+            "last_update": 1691127620,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "0362c993b027256a45333ac664f112fd78bb9e730acae0b315782638b48bdd68ca",
             "capacity": "1000000",
@@ -11793,22 +11793,22 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691056888
+                "last_update": 1691127620
             },
             "node2_policy": {
                 "time_lock_delta": 80,
                 "min_htlc": "1000",
                 "fee_base_m_atoms": "1000",
                 "fee_rate_milli_m_atoms": "1",
-                "disabled": true,
+                "disabled": false,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691109878
+                "last_update": 1691127620
             }
         },
         {
             "channel_id": "793203081440460801",
             "chan_point": "eeb46fbde1dd1e94aa3765ba8811453506406f8e4867c91abf7d0bc81f43569c:1",
-            "last_update": 1691044120,
+            "last_update": 1691130520,
             "node1_pub": "027894f99a67baaf712dc4c84eeb4fdd997f8abd7c67836cc9c01464f4296fd5d0",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "5000000",
@@ -11828,13 +11828,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691044120
+                "last_update": 1691130520
             }
         },
         {
             "channel_id": "793206379975606273",
             "chan_point": "38a88124aa3ae6ea0693da7fd5e4a3cb0e1e211f26b6f31ffae7c3096fbe3731:1",
-            "last_update": 1691058520,
+            "last_update": 1691144920,
             "node1_pub": "032fc6b0ca4d4020d56712fac822cb41a2e0bd05b6c64dbb552c265d9d3ade890b",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -11854,13 +11854,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691058520
+                "last_update": 1691144920
             }
         },
         {
             "channel_id": "793232768254672897",
             "chan_point": "bd044ff34a2a2616148aca15b9f6c835ddab21b8bf2eeab48c631776d281b21a:1",
-            "last_update": 1691026120,
+            "last_update": 1691112520,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03fd9b0688ebf5d648a347e0ea097b0391341dda57e2a698f14018412ad382ec5e",
             "capacity": "10000000",
@@ -11871,7 +11871,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691026120
+                "last_update": 1691112520
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -11912,7 +11912,7 @@
         {
             "channel_id": "793335022836056064",
             "chan_point": "bf8180c3f5cb04d9f21696dfe563064a15c22ee9b4bf696095b42ee4ffac8b95:0",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "02eda0c99c15fe8e4308ecc8454416df8ee43a4ee5a89089a81fc6ff0bdd20103d",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -11932,7 +11932,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             }
         },
         {
@@ -11964,7 +11964,7 @@
         {
             "channel_id": "793548328092434432",
             "chan_point": "73ba7423799cbe61b07b51834ac8d770012b3a969651f69b95a499d80955ce14:0",
-            "last_update": 1691077927,
+            "last_update": 1691110720,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03f65fadbbcede3f83c9f5c794ae9fdc3c568bf89f90721b5046fa6781d9bd3320",
             "capacity": "100000",
@@ -11975,7 +11975,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "99000000",
-                "last_update": 1691024320
+                "last_update": 1691110720
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -11990,7 +11990,7 @@
         {
             "channel_id": "793572517347590144",
             "chan_point": "f7edb38a0df64ebf60c26e0345a5c9457422383e1b964a246b27b4158b0387e5:0",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "032fc6b0ca4d4020d56712fac822cb41a2e0bd05b6c64dbb552c265d9d3ade890b",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "500000",
@@ -12010,13 +12010,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "495000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             }
         },
         {
             "channel_id": "793582412952043521",
             "chan_point": "b7a047a2fd28a21d14d3814ed5b3dc6d109c8c29e8da95ba8dad1a8df88db518:1",
-            "last_update": 1691044120,
+            "last_update": 1691130520,
             "node1_pub": "034583d67c9f0a49ffc7f6a099cd819dd972e98c7539ae6cfa2317bfc3e446aa09",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "5000000",
@@ -12036,13 +12036,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691044120
+                "last_update": 1691130520
             }
         },
         {
             "channel_id": "793586810998685696",
             "chan_point": "343dfeed83e242303c365839a3733881bf57cee66d7bea6c955f3129aab74e09:0",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "034583d67c9f0a49ffc7f6a099cd819dd972e98c7539ae6cfa2317bfc3e446aa09",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "3000000",
@@ -12062,7 +12062,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "2970000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             }
         },
         {
@@ -12120,7 +12120,7 @@
         {
             "channel_id": "793638488046174208",
             "chan_point": "cf25666f6550f710122c1f38a45bb4c2a1b069f04858c81f6a9a818b116b069c:0",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "028e309db2c249fd95caee96860377467d354b16333f9bf2c03cf64a5236fd298a",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "10000000",
@@ -12140,7 +12140,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             }
         },
         {
@@ -12198,7 +12198,7 @@
         {
             "channel_id": "793773727975342081",
             "chan_point": "d7bb5839fb38458fc9a8386a047d630fa80ecbc8a215286bf8c15237d2ba16fd:1",
-            "last_update": 1691052753,
+            "last_update": 1691139153,
             "node1_pub": "02942be3f075e3756758676b812edd01d0489590794fad326c5b61bbca742d8b8c",
             "node2_pub": "03aa05f777bf81c4c4c6e33d559235e0dd0ab4dd6046428e72c142a14f858934ba",
             "capacity": "107772747",
@@ -12218,13 +12218,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "106695020000",
-                "last_update": 1691052753
+                "last_update": 1691139153
             }
         },
         {
             "channel_id": "793773727975407617",
             "chan_point": "6acc4cdd470273a25c07b5ee73546f8d164632336fe44bcdf06cb155dfa12a92:1",
-            "last_update": 1691044511,
+            "last_update": 1691130911,
             "node1_pub": "02942be3f075e3756758676b812edd01d0489590794fad326c5b61bbca742d8b8c",
             "node2_pub": "0340b65798a6bf46af88dfc20b70eccb100793cc0d704b2b487a67bfdee1ae7f7c",
             "capacity": "107772747",
@@ -12244,13 +12244,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "106695020000",
-                "last_update": 1691044511
+                "last_update": 1691130911
             }
         },
         {
             "channel_id": "793913365952200705",
             "chan_point": "8ff86b6e9675d0ce608b5750443ece2a68f425c56ec4d297f252b924a2c21b9f:1",
-            "last_update": 1691108419,
+            "last_update": 1691108794,
             "node1_pub": "022c41a397814c015510e25161842475b3666efbdee2645399359bb135bd0abc9f",
             "node2_pub": "03eeaed46280cb56ef3a09593dc88982c5f3c974e776949fa02ae21436aee0c7c5",
             "capacity": "239997490",
@@ -12261,7 +12261,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "237597516000",
-                "last_update": 1691022394
+                "last_update": 1691108794
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -12380,7 +12380,7 @@
         {
             "channel_id": "794027715161292800",
             "chan_point": "7f2788d59b299de6da77b4bf557f7daf5e1a45018d539a6e0ab6f3745dfcf931:0",
-            "last_update": 1691025753,
+            "last_update": 1691112153,
             "node1_pub": "038036074b6bf4b757523bc444556fbd819f54c03d85ddaddc6c8dacf9e74ad2e4",
             "node2_pub": "03aa05f777bf81c4c4c6e33d559235e0dd0ab4dd6046428e72c142a14f858934ba",
             "capacity": "4000000",
@@ -12400,13 +12400,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "3960000000",
-                "last_update": 1691025753
+                "last_update": 1691112153
             }
         },
         {
             "channel_id": "794084889766264832",
             "chan_point": "798b2a061233fd127008698993c4f1c263bdbb6a2975376490536f2a477df653:0",
-            "last_update": 1691026136,
+            "last_update": 1691112536,
             "node1_pub": "033c8d18df6a62acb3eda5d385a962ca3e34055d05421191ad4eeff58aefa06ed8",
             "node2_pub": "038036074b6bf4b757523bc444556fbd819f54c03d85ddaddc6c8dacf9e74ad2e4",
             "capacity": "8000000",
@@ -12417,7 +12417,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "7920000000",
-                "last_update": 1691026136
+                "last_update": 1691112536
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -12510,7 +12510,7 @@
         {
             "channel_id": "794129969742741505",
             "chan_point": "b480757cf1140e9973ad34686c7fbf916503f0c20756055e0307885e7c3cbdc6:1",
-            "last_update": 1691049520,
+            "last_update": 1691135920,
             "node1_pub": "024edffad59cb45807362a80e11147677dd00076a1272e2756ec84e01e1554b11c",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "5000000",
@@ -12530,7 +12530,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691049520
+                "last_update": 1691135920
             }
         },
         {
@@ -12588,7 +12588,7 @@
         {
             "channel_id": "794209134580727808",
             "chan_point": "d5c4d4f7804d1150d4abc82a07acf36b6be1e0bcce681921bbeb4d8472f52983:0",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "036dd52770f148f2a95001e73088396d1e94ef1d37a3662bb80447803e8086ad93",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "100000",
@@ -12608,7 +12608,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             }
         },
         {
@@ -12666,7 +12666,7 @@
         {
             "channel_id": "794634645579825152",
             "chan_point": "e0266309b1db38de9cdc2efd45c14af8ca603f8bfddd3db5cfdff2e6d60a2fb3:0",
-            "last_update": 1691040520,
+            "last_update": 1691126920,
             "node1_pub": "0309b902f259aa876ecbc3e8e93fa05b84d106e7fdaa82d714b13dc13f7865a036",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "40000000",
@@ -12686,13 +12686,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "39600000000",
-                "last_update": 1691040520
+                "last_update": 1691126920
             }
         },
         {
             "channel_id": "794650038742745088",
             "chan_point": "61b574d1f6293ddaa0067cc5185d4eac6cdbe412de2a056f4b3fd51b7b60e36d:0",
-            "last_update": 1691027496,
+            "last_update": 1691113896,
             "node1_pub": "0239b917f5f58f3032130c616d329ca3b78ec1a796e11a0627c421d3da3f04d6f2",
             "node2_pub": "035367ba8ce27b52d1bcc6af833bb38b446e920b4b8e3ff6ee47e9a56a6b71fe54",
             "capacity": "1000000",
@@ -12712,13 +12712,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691027496
+                "last_update": 1691113896
             }
         },
         {
             "channel_id": "794680825068584961",
             "chan_point": "b451ed88497a8ef28cb4aad0326c9842f73b5457aa2dd884dd9a142c19cb34f7:1",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "039d16765166c5abdd13339f4335a14cdbc41019ffb4f17c59054a226abf120731",
             "capacity": "5000000",
@@ -12729,7 +12729,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -12744,7 +12744,7 @@
         {
             "channel_id": "794680825068716032",
             "chan_point": "87cdd3702bb5391ff909e79b382acd441304e828aaec984214ebe738c4afe361:0",
-            "last_update": 1691033320,
+            "last_update": 1691119720,
             "node1_pub": "039d16765166c5abdd13339f4335a14cdbc41019ffb4f17c59054a226abf120731",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -12764,13 +12764,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691033320
+                "last_update": 1691119720
             }
         },
         {
             "channel_id": "794684123603271680",
             "chan_point": "626a48a9d3e3580c6fa0dfc89471bbc9f6cc17b30cdb4e9274e9d3d00d7a64e4:0",
-            "last_update": 1691038545,
+            "last_update": 1691124945,
             "node1_pub": "0288d937d6e6b2265b4ccca0ecbb96d7e4e21d5c73dec97d42ef0b5d92903ea1ba",
             "node2_pub": "03d59c3acef408f54870b4f06d18007ca069c6c7bce913d36aae79219c8f46b9d3",
             "capacity": "1073737653",
@@ -12790,13 +12790,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "1063000277000",
-                "last_update": 1691038545
+                "last_update": 1691124945
             }
         },
         {
             "channel_id": "794684123603337217",
             "chan_point": "9ac06b26a6ee9950d5cab675d3ad5895127e3efb3a0c36dd380d88a5f19d39a9:1",
-            "last_update": 1691036496,
+            "last_update": 1691122896,
             "node1_pub": "0288d937d6e6b2265b4ccca0ecbb96d7e4e21d5c73dec97d42ef0b5d92903ea1ba",
             "node2_pub": "035367ba8ce27b52d1bcc6af833bb38b446e920b4b8e3ff6ee47e9a56a6b71fe54",
             "capacity": "1009876754",
@@ -12816,7 +12816,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "999777987000",
-                "last_update": 1691036496
+                "last_update": 1691122896
             }
         },
         {
@@ -12874,7 +12874,7 @@
         {
             "channel_id": "794918319580446720",
             "chan_point": "06b66ff987669575e492e4bdeb1060298fa4a4650a723bb8cdd316da8f17c3fa:0",
-            "last_update": 1691037275,
+            "last_update": 1691123675,
             "node1_pub": "0239b917f5f58f3032130c616d329ca3b78ec1a796e11a0627c421d3da3f04d6f2",
             "node2_pub": "02c40ba38409c6ae0b895ea9741e9eb07be8e1cd2504580f221127e7b6e3340e83",
             "capacity": "100000666",
@@ -12894,7 +12894,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000660000",
-                "last_update": 1691037275
+                "last_update": 1691123675
             }
         },
         {
@@ -12926,7 +12926,7 @@
         {
             "channel_id": "794924916650016769",
             "chan_point": "88db11123da1c99dda8e4023c4c5ef1663924baa2bc235b14cd35ab6165b9f48:1",
-            "last_update": 1691037275,
+            "last_update": 1691123675,
             "node1_pub": "0288d937d6e6b2265b4ccca0ecbb96d7e4e21d5c73dec97d42ef0b5d92903ea1ba",
             "node2_pub": "02c40ba38409c6ae0b895ea9741e9eb07be8e1cd2504580f221127e7b6e3340e83",
             "capacity": "514903140",
@@ -12946,7 +12946,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "509754109000",
-                "last_update": 1691037275
+                "last_update": 1691123675
             }
         },
         {
@@ -13004,7 +13004,7 @@
         {
             "channel_id": "795040365371129856",
             "chan_point": "a87adfaaddc23ee5dd65b078a85ae7257e6e6e0eeda2559d70d8fd738d22070c:0",
-            "last_update": 1691037275,
+            "last_update": 1691123675,
             "node1_pub": "0288d937d6e6b2265b4ccca0ecbb96d7e4e21d5c73dec97d42ef0b5d92903ea1ba",
             "node2_pub": "02c40ba38409c6ae0b895ea9741e9eb07be8e1cd2504580f221127e7b6e3340e83",
             "capacity": "300000666",
@@ -13024,13 +13024,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "297000660000",
-                "last_update": 1691037275
+                "last_update": 1691123675
             }
         },
         {
             "channel_id": "795112933138825217",
             "chan_point": "bd1b306534efddade05f80fc7477c1d1f8daabae2d5ef0582988804d1a26fe74:1",
-            "last_update": 1691071288,
+            "last_update": 1691143475,
             "node1_pub": "0204380154466972338341f5a5b5814be7a96e35f2a76ab3a45fd0baee5bafbd00",
             "node2_pub": "02c40ba38409c6ae0b895ea9741e9eb07be8e1cd2504580f221127e7b6e3340e83",
             "capacity": "300000666",
@@ -13050,7 +13050,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "297000660000",
-                "last_update": 1691057075
+                "last_update": 1691143475
             }
         },
         {
@@ -13082,7 +13082,7 @@
         {
             "channel_id": "795503259765833728",
             "chan_point": "967ba69ae50a9c77e397e1240192e49a5a666d869a79a79786a9079ffe54314a:0",
-            "last_update": 1691033320,
+            "last_update": 1691119720,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03c0533d3cbffeaa32fde5869ef0fa8d5d6c4890b4e247bd95a60704a936eca7fc",
             "capacity": "10000000",
@@ -13093,7 +13093,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691033320
+                "last_update": 1691119720
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -13108,7 +13108,7 @@
         {
             "channel_id": "795542842184826880",
             "chan_point": "0d5f696fb6d08ad6ff38d6f54c9a9ba28ba6e649724832d7524b1fab9f7493fd:0",
-            "last_update": 1691036920,
+            "last_update": 1691123320,
             "node1_pub": "027a7340af4fd21a11a3e0e36a62b9ae91d724f41b9e394502e00fe05040c38a8d",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "20000000",
@@ -13128,7 +13128,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "19800000000",
-                "last_update": 1691036920
+                "last_update": 1691123320
             }
         },
         {
@@ -13160,7 +13160,7 @@
         {
             "channel_id": "795624206045413376",
             "chan_point": "9c43899f83084d8688f70f1341d645f07d01bb83a25b18e93fb4f4fc86e0e8ff:0",
-            "last_update": 1691047720,
+            "last_update": 1691134120,
             "node1_pub": "026378a6beef3b6317e23c2e1e727d6f9558a2e9e5b606a25413e4c750d569b8b2",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "4000000",
@@ -13180,13 +13180,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "3960000000",
-                "last_update": 1691047720
+                "last_update": 1691134120
             }
         },
         {
             "channel_id": "795630803114590208",
             "chan_point": "73513fec175f4b538045dde7fe0aa5e1baa7e5b894add77deca95c4d69e72cea:0",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "026378a6beef3b6317e23c2e1e727d6f9558a2e9e5b606a25413e4c750d569b8b2",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "4000000",
@@ -13206,13 +13206,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "3960000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             }
         },
         {
             "channel_id": "795918875161067520",
             "chan_point": "a635177d174b1239f14ee6fac4dfbfd653fa14c83b40223279e5d55d165e52e4:0",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "0394934344798c13449330051afb9b2f3a464bdccba5ac05105f99d2e03d23fae7",
             "capacity": "2500000",
@@ -13223,7 +13223,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "2475000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -13264,7 +13264,7 @@
         {
             "channel_id": "797333946626211840",
             "chan_point": "db9d986277463a64d3a9ca87d1a5086922ebcf0389282a53545810f1176ba8f0:0",
-            "last_update": 1691049520,
+            "last_update": 1691135920,
             "node1_pub": "02e4bb0375428abad490c8988c4eec2f6622914fd0ef3ced3508c22421bba2ad9e",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "3000000",
@@ -13284,13 +13284,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "2970000000",
-                "last_update": 1691049520
+                "last_update": 1691135920
             }
         },
         {
             "channel_id": "797338344672526336",
             "chan_point": "beb938152ee39a213965444ee5c1b2afdbe558884ba24cc0eb4e2a887279c6c9:0",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "02e4bb0375428abad490c8988c4eec2f6622914fd0ef3ced3508c22421bba2ad9e",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "2000000",
@@ -13310,7 +13310,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "1980000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             }
         },
         {
@@ -13342,7 +13342,7 @@
         {
             "channel_id": "797958469230657536",
             "chan_point": "bc762f3ecc6b6621bb505f4dff6ad829d369aa3a7bdd8e706383eef08e0de3de:0",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "026296f7990275e61ff204070490b501f85d4d4b8bf70e6a1a23beef8b132287fb",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -13362,13 +13362,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             }
         },
         {
             "channel_id": "798023340417089536",
             "chan_point": "c1fac9f91c7ef25f5699c72bf82aed418d2a7747859c669708a985ae9e3d8011:0",
-            "last_update": 1691047720,
+            "last_update": 1691134120,
             "node1_pub": "0207b03378301c5b34f78798f48359513d9f9086d8e56455b9a00eff715558586f",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "3000000",
@@ -13388,7 +13388,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "2970000000",
-                "last_update": 1691047720
+                "last_update": 1691134120
             }
         },
         {
@@ -13420,7 +13420,7 @@
         {
             "channel_id": "799394431416926208",
             "chan_point": "5b456b218ae61de25d38e715687429bceb509693bde3ad0eef34aaf25dff5862:0",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "027a7340af4fd21a11a3e0e36a62b9ae91d724f41b9e394502e00fe05040c38a8d",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -13440,13 +13440,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             }
         },
         {
             "channel_id": "800131104207863808",
             "chan_point": "f8937078a4c6a64f558807b7093571babb76abdd4de2506cc7eb22f6472f2174:0",
-            "last_update": 1691049520,
+            "last_update": 1691135920,
             "node1_pub": "03af68d4b202a18269efa313e4c2e8d92946bfbeb8d873c8c6c1f104aab01edd1e",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "3000000",
@@ -13466,13 +13466,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "2970000000",
-                "last_update": 1691049520
+                "last_update": 1691135920
             }
         },
         {
             "channel_id": "800133303230529536",
             "chan_point": "2af23642612d36cee907040b01d6a4ccd9fdee99b9b21f87ef5e15f23a6434f2:0",
-            "last_update": 1691049520,
+            "last_update": 1691135920,
             "node1_pub": "03af68d4b202a18269efa313e4c2e8d92946bfbeb8d873c8c6c1f104aab01edd1e",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "5000000",
@@ -13492,7 +13492,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691049520
+                "last_update": 1691135920
             }
         },
         {
@@ -13524,7 +13524,7 @@
         {
             "channel_id": "800179482719354881",
             "chan_point": "e626114ff97d19b14deae6e84ff2f7eb54cc1025d45790564553abb68cd3d0f3:1",
-            "last_update": 1691039602,
+            "last_update": 1691126002,
             "node1_pub": "036058c64905e8cf7cb971ef0ecb4e73e037072de2dc72268f0a6f059541afa902",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "5000000",
@@ -13544,13 +13544,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             }
         },
         {
             "channel_id": "800197074904743936",
             "chan_point": "945cd65f5035fcdfc80b2e2cb73a41910a13f23061046cf2a950cbd433f4557f:0",
-            "last_update": 1691089120,
+            "last_update": 1691127802,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "100000000",
@@ -13561,7 +13561,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691041402
+                "last_update": 1691127802
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -13576,7 +13576,7 @@
         {
             "channel_id": "800365300183793664",
             "chan_point": "7c8aceb2af523ce49bec601863a639ad47a830b6858526199ee3ecad633507ec:0",
-            "last_update": 1691041402,
+            "last_update": 1691127802,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03af68d4b202a18269efa313e4c2e8d92946bfbeb8d873c8c6c1f104aab01edd1e",
             "capacity": "10000000",
@@ -13587,7 +13587,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691041402
+                "last_update": 1691127802
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -13602,7 +13602,7 @@
         {
             "channel_id": "800596197625626624",
             "chan_point": "60f8d7f989965736c660fa009484f29bf63f6b120d35b4706df56f6be4f1e472:0",
-            "last_update": 1691103266,
+            "last_update": 1691122646,
             "node1_pub": "0366033780fc72f864551f5b245a95620b2e539e54f8174023b7c4ce9b6ac3dccd",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -13622,7 +13622,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691103266
+                "last_update": 1691122646
             }
         },
         {
@@ -13654,7 +13654,7 @@
         {
             "channel_id": "802466466905260032",
             "chan_point": "e821df8f5c6e2c121d7aff035c50b51ee762717423872edc883cc54d17561554:0",
-            "last_update": 1691024320,
+            "last_update": 1691110720,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03ec158c87febb73e7478208c490b136f1f6f7aeaa77e3dd251e14b7d7f2daafca",
             "capacity": "1000000",
@@ -13665,7 +13665,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691024320
+                "last_update": 1691110720
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -13680,7 +13680,7 @@
         {
             "channel_id": "802480760556224512",
             "chan_point": "376f5b5a62bc2dfa82cb6a434f0b785cae4007a78efd944e7317d837c8e2f0f7:0",
-            "last_update": 1691024320,
+            "last_update": 1691110720,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03ec158c87febb73e7478208c490b136f1f6f7aeaa77e3dd251e14b7d7f2daafca",
             "capacity": "1000000",
@@ -13691,7 +13691,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691024320
+                "last_update": 1691110720
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -13706,7 +13706,7 @@
         {
             "channel_id": "802729250184036352",
             "chan_point": "eb3520ae5a8dc74d9ee49939ab951f19192a5bc46ac8a0c71c517d2a23279f30:0",
-            "last_update": 1691044120,
+            "last_update": 1691130520,
             "node1_pub": "03351d2040f227583a8864440c35f89e898bb7702c9756414c686217f98e574f24",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -13726,7 +13726,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691044120
+                "last_update": 1691130520
             }
         },
         {
@@ -13836,7 +13836,7 @@
         {
             "channel_id": "803979394905014272",
             "chan_point": "6e6f6e9ffdbc747901a0097071879434c5aec2f295c36e5277dc31fd67dd3fa6:0",
-            "last_update": 1691041402,
+            "last_update": 1691127802,
             "node1_pub": "029000bb2caec4e7c07659adfeb7c5dc4995d7b2348313f846145549da32b01b55",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "100000",
@@ -13856,13 +13856,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000",
-                "last_update": 1691041402
+                "last_update": 1691127802
             }
         },
         {
             "channel_id": "804062957788266496",
             "chan_point": "a11a343f115dcf540167053c5cd229b8843f885cc925bd2f9bd0c4e36259fc10:0",
-            "last_update": 1691041402,
+            "last_update": 1691127802,
             "node1_pub": "028941b671b47cedf51c2367f234b060404e1d7487af885b7ff36bfe77ed1f7ee1",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -13882,13 +13882,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691041402
+                "last_update": 1691127802
             }
         },
         {
             "channel_id": "804386214206636032",
             "chan_point": "4f0e53ad71fe98b812bd2909d4dce91118854770696efc5f6995561ea8ebda80:0",
-            "last_update": 1691054920,
+            "last_update": 1691141320,
             "node1_pub": "02e37ee91fc85ccf9dc45771b436f06f9a9a4c84b8210be8ad518f72de5e38ed56",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "4000000",
@@ -13908,13 +13908,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "3960000000",
-                "last_update": 1691054920
+                "last_update": 1691141320
             }
         },
         {
             "channel_id": "804389512741781504",
             "chan_point": "5cd81f97a2f31b27ff5c5054dfadf3114029bae670d485db8810305d7230c674:0",
-            "last_update": 1691041402,
+            "last_update": 1691127802,
             "node1_pub": "02e37ee91fc85ccf9dc45771b436f06f9a9a4c84b8210be8ad518f72de5e38ed56",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -13934,7 +13934,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691041402
+                "last_update": 1691127802
             }
         },
         {
@@ -13992,7 +13992,7 @@
         {
             "channel_id": "805283415695163393",
             "chan_point": "98371f4c7d1a997db88fbf735302bf5c3572459b3d3af943795b4364017eba87:1",
-            "last_update": 1691036920,
+            "last_update": 1691123320,
             "node1_pub": "0256a9dc3e4a0b3263485ec6adf591afb72fb8eefc49729ba1adbff7c4af44fb88",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "5000000",
@@ -14012,7 +14012,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691036920
+                "last_update": 1691123320
             }
         },
         {
@@ -14070,7 +14070,7 @@
         {
             "channel_id": "805358182486441984",
             "chan_point": "20a42914e2cbb5f0b8ee0d1e65244a8e8cf5f7553b3901609eb641a2f8cc1a46:0",
-            "last_update": 1691043202,
+            "last_update": 1691129602,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03d0e43d251567705df829fe4dda115637a8c8c1e980adcece3ecfbd62b8ab6ca3",
             "capacity": "100000",
@@ -14081,7 +14081,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000",
-                "last_update": 1691043202
+                "last_update": 1691129602
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -14096,7 +14096,7 @@
         {
             "channel_id": "805362580532822016",
             "chan_point": "888b77373a503ffd2e6c2ccd24041b39ca38461dd19565475ebfd1621ceedcd3:0",
-            "last_update": 1691043202,
+            "last_update": 1691129602,
             "node1_pub": "0256a9dc3e4a0b3263485ec6adf591afb72fb8eefc49729ba1adbff7c4af44fb88",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "3000000",
@@ -14116,7 +14116,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "2970000000",
-                "last_update": 1691043202
+                "last_update": 1691129602
             }
         },
         {
@@ -14252,7 +14252,7 @@
         {
             "channel_id": "805615468207603712",
             "chan_point": "4f857493fd9ce7aae0c7e48ff59cd9a9dfcf42b14803833b111d10925b15e565:0",
-            "last_update": 1691026120,
+            "last_update": 1691112520,
             "node1_pub": "02e46a2b54005c1cbf196b8822d4a86dd46e78901696cb543acf97c2ef262b4ace",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -14272,13 +14272,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691026120
+                "last_update": 1691112520
             }
         },
         {
             "channel_id": "805619866253918208",
             "chan_point": "5bd857c4df7ad502b8c5920ef2ab8861b1ca49cadf8f54382d001f553aac26d7:0",
-            "last_update": 1691026120,
+            "last_update": 1691112520,
             "node1_pub": "02e46a2b54005c1cbf196b8822d4a86dd46e78901696cb543acf97c2ef262b4ace",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -14298,7 +14298,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691026120
+                "last_update": 1691112520
             }
         },
         {
@@ -14330,7 +14330,7 @@
         {
             "channel_id": "807075619648962561",
             "chan_point": "18ef06908494f56d9ad821d4296ea8cdd9a3382c71165f11b550cb725dd06ac5:1",
-            "last_update": 1691024320,
+            "last_update": 1691110720,
             "node1_pub": "02441c0826d264328eac5e70832b96f80dd9634d78a5b5e92b55dd44fc2f8d30a1",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -14350,7 +14350,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691024320
+                "last_update": 1691110720
             }
         },
         {
@@ -14486,7 +14486,7 @@
         {
             "channel_id": "810595156369276928",
             "chan_point": "f0b614fb13fa440163ac3401531e8d0483e532a03731d7646056bb9383cca092:0",
-            "last_update": 1691058520,
+            "last_update": 1691144920,
             "node1_pub": "036aca3d625e32f9aab486ec24d13f571b0b23c8419648bd8a8af4dc5c89c8f6b5",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -14506,7 +14506,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691058520
+                "last_update": 1691144920
             }
         },
         {
@@ -14564,7 +14564,7 @@
         {
             "channel_id": "811317535508267008",
             "chan_point": "b255eb4c278db3f1222ea6880c0d95d2349f60f74eedbde2c39a253e93788f87:0",
-            "last_update": 1691057602,
+            "last_update": 1691144002,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03f94a7237adc3caf0479403a66aacbff9d0e70c1a4ad4631e8e5aeab982eba2f0",
             "capacity": "100000",
@@ -14575,7 +14575,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000",
-                "last_update": 1691057602
+                "last_update": 1691144002
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -14616,7 +14616,7 @@
         {
             "channel_id": "812517102694367232",
             "chan_point": "1a1a202d7d71ef7c7502d95d11eaa19d5b956edc801b50b4937220536c4067b2:0",
-            "last_update": 1691103266,
+            "last_update": 1691122646,
             "node1_pub": "0366033780fc72f864551f5b245a95620b2e539e54f8174023b7c4ce9b6ac3dccd",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "100000000",
@@ -14636,7 +14636,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691103266
+                "last_update": 1691122646
             }
         },
         {
@@ -14902,7 +14902,7 @@
         {
             "channel_id": "815074566741295104",
             "chan_point": "3ffb3d98d73670b27219adab6b8ead2143d098ad4720b13a3b073964f84cac5a:0",
-            "last_update": 1691036002,
+            "last_update": 1691122402,
             "node1_pub": "02e6b2ad29ee80571129ea3d078e9e0200a45571445ffe33983c09874dbb9d0192",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "100000",
@@ -14922,7 +14922,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000",
-                "last_update": 1691036002
+                "last_update": 1691122402
             }
         },
         {
@@ -15006,7 +15006,7 @@
         {
             "channel_id": "815306563693969408",
             "chan_point": "8e58a2f87a5b68ea462c20748309e74a6e77e3a9f702b85bb67b470c0a246951:0",
-            "last_update": 1691043202,
+            "last_update": 1691129602,
             "node1_pub": "02335246255b5607fe3d853ba44c564b2649afc11ac61f96314daf692ea82861b3",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -15026,7 +15026,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691043202
+                "last_update": 1691129602
             }
         },
         {
@@ -15214,7 +15214,7 @@
         {
             "channel_id": "816908552136491008",
             "chan_point": "d36c6abbe68af1378d01c9697247e879f65112d4a681003a8f222ec5d56a21a8:0",
-            "last_update": 1691077927,
+            "last_update": 1691110720,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03f65fadbbcede3f83c9f5c794ae9fdc3c568bf89f90721b5046fa6781d9bd3320",
             "capacity": "1000000",
@@ -15225,7 +15225,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691024320
+                "last_update": 1691110720
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -15292,7 +15292,7 @@
         {
             "channel_id": "816967925763932160",
             "chan_point": "8e583cd3117640b62db814ef71b64673fbe31b6a9f3ddd37f51be2e34ffc5d1c:0",
-            "last_update": 1691057602,
+            "last_update": 1691144002,
             "node1_pub": "0334301a13892aede05636ab7229d211443b37df8714b1940701efd79484f60491",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "5000000",
@@ -15312,13 +15312,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691057602
+                "last_update": 1691144002
             }
         },
         {
             "channel_id": "817623234694545409",
             "chan_point": "674bef28eccc02452307554f1320b7f077ce7dbc209cea9838f72044ef789156:1",
-            "last_update": 1691027002,
+            "last_update": 1691113402,
             "node1_pub": "0255b8da5045ff966f1101a5000e29cc66f4b3a4ec057c72fb953c1ae03ad60144",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "899999",
@@ -15338,13 +15338,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "891000000",
-                "last_update": 1691027002
+                "last_update": 1691113402
             }
         },
         {
             "channel_id": "817635329322188800",
             "chan_point": "cb0d4056bc3270a369bd4fe6eac01de417d506e9cde49be77c2e05b72a0ba39a:0",
-            "last_update": 1691051320,
+            "last_update": 1691137720,
             "node1_pub": "02c20e99b3b86b72c5f6601ca47980ff3dce794175802be6c4a45177b815a36520",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -15364,7 +15364,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691051320
+                "last_update": 1691137720
             }
         },
         {
@@ -15500,7 +15500,7 @@
         {
             "channel_id": "819880532065452032",
             "chan_point": "718e65498cb2f36912abeb404f69918a3cf2124aaef09a2ee8dfb0f8e1b222bd:0",
-            "last_update": 1691027002,
+            "last_update": 1691113402,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03fd9b0688ebf5d648a347e0ea097b0391341dda57e2a698f14018412ad382ec5e",
             "capacity": "8900000",
@@ -15511,7 +15511,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "8811000000",
-                "last_update": 1691027002
+                "last_update": 1691113402
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -15552,7 +15552,7 @@
         {
             "channel_id": "820481964926304256",
             "chan_point": "3525827022669c740127fd87b5c60b85f1849830943cb706c64c1e787d5f8fcd:0",
-            "last_update": 1691022520,
+            "last_update": 1691108920,
             "node1_pub": "0378e0cf1f369273cf6e8bdd16f7006ccdfab288235aa8c886c77f87db96c2658a",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "100000",
@@ -15572,13 +15572,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000",
-                "last_update": 1691022520
+                "last_update": 1691108920
             }
         },
         {
             "channel_id": "820729355042684928",
             "chan_point": "f4161fd2656cecbbf5f7f421bbcbeb061f8ba564fd12a0791e3d60fcb0abe725:0",
-            "last_update": 1691022520,
+            "last_update": 1691108920,
             "node1_pub": "0378e0cf1f369273cf6e8bdd16f7006ccdfab288235aa8c886c77f87db96c2658a",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "100000",
@@ -15598,7 +15598,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000",
-                "last_update": 1691022520
+                "last_update": 1691108920
             }
         },
         {
@@ -15630,7 +15630,7 @@
         {
             "channel_id": "823185664018415616",
             "chan_point": "64d91ca51df64b1e79dca3fb51027f29bab67f92529679b2c2004c75cb99f0d9:0",
-            "last_update": 1691022520,
+            "last_update": 1691108920,
             "node1_pub": "026296f7990275e61ff204070490b501f85d4d4b8bf70e6a1a23beef8b132287fb",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "4000000",
@@ -15650,7 +15650,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "3960000000",
-                "last_update": 1691022520
+                "last_update": 1691108920
             }
         },
         {
@@ -15682,7 +15682,7 @@
         {
             "channel_id": "823253833739796480",
             "chan_point": "9dc3cd666e21f340d9aa9fa07242c3f840def118c4e1ee77eb532c5819466e34:0",
-            "last_update": 1691022520,
+            "last_update": 1691108920,
             "node1_pub": "020a7c1d99fb2200aa095f6ff0f7ef6563e632c67d1e8d90e46c8683b314561074",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "20000000",
@@ -15702,13 +15702,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "19800000000",
-                "last_update": 1691022520
+                "last_update": 1691108920
             }
         },
         {
             "channel_id": "823259331297411072",
             "chan_point": "abe5f3f5e65c5fd0373e1e31a4312982d2e2d12e9adcafff0e0037ed6ecc9f43:0",
-            "last_update": 1691027002,
+            "last_update": 1691113402,
             "node1_pub": "020a7c1d99fb2200aa095f6ff0f7ef6563e632c67d1e8d90e46c8683b314561074",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "20000000",
@@ -15728,7 +15728,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "19800000000",
-                "last_update": 1691027002
+                "last_update": 1691113402
             }
         },
         {
@@ -15812,7 +15812,7 @@
         {
             "channel_id": "824598536460566528",
             "chan_point": "d5c17534f6744ab4175007b88c8c7db0eaa21eb9de422e5a50121ea0f0c801fa:0",
-            "last_update": 1691056218,
+            "last_update": 1691144002,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03dcb813ed46de74aa2cf1c36e49ddbeb58f87feb282b0edc9fd4c0d1b06c7ccf3",
             "capacity": "10000000",
@@ -15823,7 +15823,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691056218
+                "last_update": 1691144002
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -15890,7 +15890,7 @@
         {
             "channel_id": "824993261134872576",
             "chan_point": "8c6a97814ff2b34c06c25056a0cc08db25cb515282eed097d5d72ae87aad4cae:0",
-            "last_update": 1691051320,
+            "last_update": 1691137720,
             "node1_pub": "0266c472c808766481260f185ce3f46074138e2839649ad52d8f76620976ddd7b5",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "5000000",
@@ -15910,7 +15910,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691051320
+                "last_update": 1691137720
             }
         },
         {
@@ -15942,7 +15942,7 @@
         {
             "channel_id": "825195571274448896",
             "chan_point": "2023db00ea1fdb8002e175c4816d21d13bc4c05f417f2aba214728a3a7451c82:0",
-            "last_update": 1691050484,
+            "last_update": 1691136886,
             "node1_pub": "02d7cd0d86afec9921af948998c8788cea7b81bb7c1b567a32b646feb86d88863d",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "100000000",
@@ -15953,7 +15953,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691050484
+                "last_update": 1691136886
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -15962,13 +15962,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691039602
+                "last_update": 1691126002
             }
         },
         {
             "channel_id": "825298925367984128",
             "chan_point": "181283fb93cf797b7cfc90e0b85dafc3326cad013981ab2c091f7968263d0321:0",
-            "last_update": 1691038720,
+            "last_update": 1691125120,
             "node1_pub": "022e96b1bc7a6e4fd12aa9c6bab692160f7bde7fe0cb8b688b4a63d5daac0f891d",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "700000",
@@ -15988,7 +15988,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "693000000",
-                "last_update": 1691038720
+                "last_update": 1691125120
             }
         },
         {
@@ -16020,7 +16020,7 @@
         {
             "channel_id": "825494638437138432",
             "chan_point": "69438ccd3f7749711f7ad36dbc3e275f3fdd407e37666d774ab3551f94e61202:0",
-            "last_update": 1691045920,
+            "last_update": 1691132320,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03ce1a9762a761137eef99e7d80433149a4b0f1704ddc18e2a9b28dcc306b61607",
             "capacity": "50000",
@@ -16031,7 +16031,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "49500000",
-                "last_update": 1691045920
+                "last_update": 1691132320
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -16072,7 +16072,7 @@
         {
             "channel_id": "826413830158352384",
             "chan_point": "7f677b5678e4f62049b90eeb13dafb8f1dae11653920a15018a5ec272c46befd:0",
-            "last_update": 1691053120,
+            "last_update": 1691139520,
             "node1_pub": "038385e8b8c0a46e4759bdb3aff2b689642a90a53e3497f12a1726a3cd1716104c",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "100000",
@@ -16092,13 +16092,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000",
-                "last_update": 1691053120
+                "last_update": 1691139520
             }
         },
         {
             "channel_id": "826454512088317952",
             "chan_point": "94a29f12b58710be6bb9af4700b14fe898c4f7822309d659cc99c0ca6e3ce80b:0",
-            "last_update": 1691033006,
+            "last_update": 1691119720,
             "node1_pub": "020a5763dfbe258647c8e27ade38a64082e58c2e1652182cee0e0425d5df2b7100",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -16118,13 +16118,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691033006
+                "last_update": 1691119720
             }
         },
         {
             "channel_id": "826457810622742528",
             "chan_point": "c2b64c50445ff426f63e96158a46c27aa3cc441be849ccb67e909fafde53be00:0",
-            "last_update": 1691032938,
+            "last_update": 1691120602,
             "node1_pub": "020a5763dfbe258647c8e27ade38a64082e58c2e1652182cee0e0425d5df2b7100",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "10000000",
@@ -16144,7 +16144,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691032938
+                "last_update": 1691120602
             }
         },
         {
@@ -16202,7 +16202,7 @@
         {
             "channel_id": "827395694041038849",
             "chan_point": "bf0c78aa2006263077f6386d13e4a66d0b60a1644b3efed25dde96cf9bb80eb5:1",
-            "last_update": 1691035120,
+            "last_update": 1691121520,
             "node1_pub": "022b148a90458e5d77911f55a97221e305ea1c1bd98c5c8b3a5ad340929f62876d",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "5000000",
@@ -16222,7 +16222,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691035120
+                "last_update": 1691121520
             }
         },
         {
@@ -16306,7 +16306,7 @@
         {
             "channel_id": "827515540808597504",
             "chan_point": "465e61e2b74745ee3d95207080d0bb4c59a9b44f31b7a0706618d2c1c5a6fcc7:0",
-            "last_update": 1691022520,
+            "last_update": 1691108920,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03ca82a3db62af301cc3086fcec5a54822a938873e5e1d305565c72644da3df5ac",
             "capacity": "100000000",
@@ -16317,7 +16317,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691022520
+                "last_update": 1691108920
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -16358,7 +16358,7 @@
         {
             "channel_id": "827549625669713920",
             "chan_point": "1336d88bd96006ab933517ad925a50a5127c6cb937bd29444b471fb596dc6f77:0",
-            "last_update": 1691045920,
+            "last_update": 1691132320,
             "node1_pub": "022ae62a396ec123b2a3c5948478fb8b79c908eaaba90328cbf8e41896895ed271",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "100000",
@@ -16378,7 +16378,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000",
-                "last_update": 1691045920
+                "last_update": 1691132320
             }
         },
         {
@@ -16410,7 +16410,7 @@
         {
             "channel_id": "827592506622410753",
             "chan_point": "69b5479f0078a4baad8ee1221301371f9df7ac012f8e9ef81fef3681612f0f4e:1",
-            "last_update": 1691022520,
+            "last_update": 1691108920,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03eebddea06d3a59f639e3a42de0ab4b9c102d4fb3b8b5006ffcf511370bbd7fba",
             "capacity": "10000000",
@@ -16421,7 +16421,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691022520
+                "last_update": 1691108920
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -16436,7 +16436,7 @@
         {
             "channel_id": "827595805158146048",
             "chan_point": "c0a940ed41cdccf5285015261b26d89989190cee68a072baf5a797530c6b9d4f:0",
-            "last_update": 1691043202,
+            "last_update": 1691129602,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03eebddea06d3a59f639e3a42de0ab4b9c102d4fb3b8b5006ffcf511370bbd7fba",
             "capacity": "5000000",
@@ -16447,7 +16447,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691043202
+                "last_update": 1691129602
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -16462,7 +16462,7 @@
         {
             "channel_id": "827640885134819328",
             "chan_point": "b45327a1859787c51ed5b4c62eab14e15fa5bb4bb1bc160a63891eda5ff32c05:0",
-            "last_update": 1691024320,
+            "last_update": 1691110720,
             "node1_pub": "026296f7990275e61ff204070490b501f85d4d4b8bf70e6a1a23beef8b132287fb",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -16482,7 +16482,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691024320
+                "last_update": 1691110720
             }
         },
         {
@@ -16696,7 +16696,7 @@
         {
             "channel_id": "830530401692745729",
             "chan_point": "aaf32ccd2cb8b15dc85c02a8d6deafc0f5b1f54468702af9e7e0323800d4278c:1",
-            "last_update": 1691107475,
+            "last_update": 1691109675,
             "node1_pub": "02a8ab29bfe954e1471311644e0aca2a14f29766d0c11611583944302a11adb435",
             "node2_pub": "02c40ba38409c6ae0b895ea9741e9eb07be8e1cd2504580f221127e7b6e3340e83",
             "capacity": "100000000",
@@ -16707,7 +16707,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691023275
+                "last_update": 1691109675
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -16722,7 +16722,7 @@
         {
             "channel_id": "830536998761791488",
             "chan_point": "299c547372dc6f78348316b2aa813bb5ba8917cd0bfc195a79755f9c6596fbc7:0",
-            "last_update": 1691107475,
+            "last_update": 1691109675,
             "node1_pub": "02a8ab29bfe954e1471311644e0aca2a14f29766d0c11611583944302a11adb435",
             "node2_pub": "02c40ba38409c6ae0b895ea9741e9eb07be8e1cd2504580f221127e7b6e3340e83",
             "capacity": "100000000",
@@ -16733,7 +16733,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691023275
+                "last_update": 1691109675
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -16852,7 +16852,7 @@
         {
             "channel_id": "831237387668553728",
             "chan_point": "85b982e77e803bee11c3bde10eb339b84ab35e87af91b79e497a6f7ec31be8d7:0",
-            "last_update": 1691052202,
+            "last_update": 1691138602,
             "node1_pub": "02395c2dbf752f266e19127014f0dec551810465d1c9cf7f1a9d9db25ade64a3ab",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -16872,13 +16872,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691052202
+                "last_update": 1691138602
             }
         },
         {
             "channel_id": "831494673390174208",
             "chan_point": "ee8f065364e97c81ec45d8cd2a57473b259bcd294fdbc21507ec58b294a77c68:0",
-            "last_update": 1691036003,
+            "last_update": 1691124202,
             "node1_pub": "0378e0cf1f369273cf6e8bdd16f7006ccdfab288235aa8c886c77f87db96c2658a",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -16898,13 +16898,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691036003
+                "last_update": 1691124202
             }
         },
         {
             "channel_id": "831587032366120960",
             "chan_point": "abf84662df5219e605cb4a78f9aee53ffe26979bd7eb28d837262af8289e2193:0",
-            "last_update": 1691024320,
+            "last_update": 1691110720,
             "node1_pub": "02ba6a1c672c01bfe0348f08b2e25739dae30f704279a49a51ca53c36f0c17fa7d",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "25000000",
@@ -16924,7 +16924,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "24750000000",
-                "last_update": 1691024320
+                "last_update": 1691110720
             }
         },
         {
@@ -16956,7 +16956,7 @@
         {
             "channel_id": "831732167901970432",
             "chan_point": "ea230351fe683af82665f36ca27975b0a5f17502624da10dcfe3eb29f2795e9a:0",
-            "last_update": 1691036003,
+            "last_update": 1691124202,
             "node1_pub": "02ba6a1c672c01bfe0348f08b2e25739dae30f704279a49a51ca53c36f0c17fa7d",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "25000000",
@@ -16976,13 +16976,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "24750000000",
-                "last_update": 1691036003
+                "last_update": 1691124202
             }
         },
         {
             "channel_id": "832081812600127488",
             "chan_point": "35f3e6d1f3c150eabb3de372e3d96adaeb446f3225c0cf95ad8797c5db899bfb:0",
-            "last_update": 1691103317,
+            "last_update": 1691122638,
             "node1_pub": "0366033780fc72f864551f5b245a95620b2e539e54f8174023b7c4ce9b6ac3dccd",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "100000000",
@@ -17002,7 +17002,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691103317
+                "last_update": 1691122638
             }
         },
         {
@@ -17086,7 +17086,7 @@
         {
             "channel_id": "832340197831147521",
             "chan_point": "2b3356528d4a274b2c3cf1bfd69533eff1466091b983431fa329ec5ac6b98fa0:1",
-            "last_update": 1691056218,
+            "last_update": 1691144002,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03dcb813ed46de74aa2cf1c36e49ddbeb58f87feb282b0edc9fd4c0d1b06c7ccf3",
             "capacity": "100000000",
@@ -17097,7 +17097,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691056218
+                "last_update": 1691144002
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -17294,7 +17294,7 @@
         {
             "channel_id": "832429258272997376",
             "chan_point": "41142645345f672a224afaf4c23c063bd2842dc7fe1ce7774edc2e87a7ff04b5:0",
-            "last_update": 1691023402,
+            "last_update": 1691109802,
             "node1_pub": "0300188eb2dd15e870ff45bf9f04e26b96e8289576ecc1768f1e3a73bc00fe33e1",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "200000000",
@@ -17314,7 +17314,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691023402
+                "last_update": 1691109802
             }
         },
         {
@@ -17450,7 +17450,7 @@
         {
             "channel_id": "833217608110702592",
             "chan_point": "42e467f6075cb24009f540e107d59fdd29d0436437465dcf3dd0ca76b1d3190b:0",
-            "last_update": 1691092320,
+            "last_update": 1691121618,
             "node1_pub": "0318fe468a8bd7374b49c3f8f3bdc4c68ef670d0982ad54dad84bea5304b6f39df",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "40000000",
@@ -17468,15 +17468,15 @@
                 "min_htlc": "1000",
                 "fee_base_m_atoms": "1000",
                 "fee_rate_milli_m_atoms": "1",
-                "disabled": false,
+                "disabled": true,
                 "max_htlc_m_atoms": "39600000000",
-                "last_update": 1691080861
+                "last_update": 1691121618
             }
         },
         {
             "channel_id": "833315464645312512",
             "chan_point": "37972e9625525ff637e7eba841bcabf3d32a10772d1f45b5f47660fbdfdaf6fe:0",
-            "last_update": 1691084118,
+            "last_update": 1691128938,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "038a95ee5edb9bb05c923755a1fdcd4a142e4cb2fff8812d56e58629d0e8a6507f",
             "capacity": "20000000",
@@ -17487,7 +17487,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "19800000000",
-                "last_update": 1691084118
+                "last_update": 1691128938
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -17496,7 +17496,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "19800000000",
-                "last_update": 1690992200
+                "last_update": 1691081004
             }
         },
         {
@@ -17554,7 +17554,7 @@
         {
             "channel_id": "833753070272905216",
             "chan_point": "e8e7051150c5c79791e83b6932b3529e755d33d57614ba94cd3047fca3837888:0",
-            "last_update": 1691040520,
+            "last_update": 1691126920,
             "node1_pub": "0226d2ec91ac6cfe77b95a3672321d270f124cba85a1f84aeb9ab15f147537b2e0",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -17574,13 +17574,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691040520
+                "last_update": 1691126920
             }
         },
         {
             "channel_id": "833991664296591361",
             "chan_point": "37ff897fc50a3392139506d6aef7c3bbdd074f95c77982f0bdf71c9112e5fd42:1",
-            "last_update": 1691024320,
+            "last_update": 1691110720,
             "node1_pub": "02ac19987b4f12f144dafb7a42a287196a49e3cfa7b7eee1e4503d4e752f694a1d",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "2987030",
@@ -17600,13 +17600,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "2957160000",
-                "last_update": 1691024320
+                "last_update": 1691110720
             }
         },
         {
             "channel_id": "833994962831081472",
             "chan_point": "c47dcbed122af3daf4f5d4a333641f40d20500ea92b39153b458ed13e7147719:0",
-            "last_update": 1691036003,
+            "last_update": 1691124202,
             "node1_pub": "02ac19987b4f12f144dafb7a42a287196a49e3cfa7b7eee1e4503d4e752f694a1d",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "194932300",
@@ -17626,7 +17626,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "192982977000",
-                "last_update": 1691036003
+                "last_update": 1691124202
             }
         },
         {
@@ -17658,7 +17658,7 @@
         {
             "channel_id": "834390787017867264",
             "chan_point": "6196751ecaf4a99712e03bdc643d6b722a3e20359adeb13d8a5755c6825f9ff3:0",
-            "last_update": 1691063062,
+            "last_update": 1691133202,
             "node1_pub": "02c502b5a0f3345f22f660ffce1a925f23a0ec7e08261e5413e93a88b911342ecc",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "99000000",
@@ -17678,13 +17678,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "98010000000",
-                "last_update": 1691046802
+                "last_update": 1691133202
             }
         },
         {
             "channel_id": "834394085552226305",
             "chan_point": "b6191d1c045365183e64c08a0a9a22aede27270d0a5ebe12aadb2cbb48f8ce40:1",
-            "last_update": 1691063062,
+            "last_update": 1691134120,
             "node1_pub": "02c502b5a0f3345f22f660ffce1a925f23a0ec7e08261e5413e93a88b911342ecc",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "100000000",
@@ -17704,13 +17704,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691047720
+                "last_update": 1691134120
             }
         },
         {
             "channel_id": "834880069692096512",
             "chan_point": "d968941dd94c3af763b2f5910f5d573030b41ddab3400e4bc72a3c70b4f37cde:0",
-            "last_update": 1691063062,
+            "last_update": 1691133202,
             "node1_pub": "02c502b5a0f3345f22f660ffce1a925f23a0ec7e08261e5413e93a88b911342ecc",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "117000000",
@@ -17730,13 +17730,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "115830000000",
-                "last_update": 1691046802
+                "last_update": 1691133202
             }
         },
         {
             "channel_id": "835013110598795264",
             "chan_point": "213b03d570e2414a495ccfbedbf79a6c15dc6e63482b7e6ff36e96cd179ec0b3:0",
-            "last_update": 1691035120,
+            "last_update": 1691121520,
             "node1_pub": "028b60c8054889be309d628a48b9a062bb20434b17a6da5c371c3bd227b30bd95a",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -17756,7 +17756,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691035120
+                "last_update": 1691121520
             }
         },
         {
@@ -17840,7 +17840,7 @@
         {
             "channel_id": "835284689971052544",
             "chan_point": "284ca6e65fd513d7933d8835debcc49bf44f42cb43e9dbc320312a4e5b7d54c5:0",
-            "last_update": 1691023402,
+            "last_update": 1691109802,
             "node1_pub": "028b60c8054889be309d628a48b9a062bb20434b17a6da5c371c3bd227b30bd95a",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -17860,13 +17860,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691023402
+                "last_update": 1691109802
             }
         },
         {
             "channel_id": "835320973854834688",
             "chan_point": "b294d954b9ce64bc49c1382ae7ee29cd9b122a194929a36a911dcf56047877d7:0",
-            "last_update": 1691027920,
+            "last_update": 1691114320,
             "node1_pub": "027a08900fe29e956f9bb381d1dda8bcca5bdb2df3fbf1e011a69e7e8879b3a74a",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -17886,13 +17886,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691027920
+                "last_update": 1691114320
             }
         },
         {
             "channel_id": "835341864574976001",
             "chan_point": "83b57dfdcb596c87c1b26fc6b491b89c592e0e3818d196f69d828da93fa52734:1",
-            "last_update": 1691024320,
+            "last_update": 1691110720,
             "node1_pub": "02eed9a7cc036f58539126bab6f4f01fa89734ffa9b2ce9dcbda7e93d75343f5b7",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "8000000",
@@ -17912,13 +17912,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "7920000000",
-                "last_update": 1691024320
+                "last_update": 1691110720
             }
         },
         {
             "channel_id": "835362755296559104",
             "chan_point": "94e0854618d2bc16526ce263f90d8091203ec20dc0e6005f3f55d5349bca76ad:0",
-            "last_update": 1691057602,
+            "last_update": 1691144002,
             "node1_pub": "027a08900fe29e956f9bb381d1dda8bcca5bdb2df3fbf1e011a69e7e8879b3a74a",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -17938,7 +17938,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691057602
+                "last_update": 1691144002
             }
         },
         {
@@ -17996,7 +17996,7 @@
         {
             "channel_id": "835528781551697920",
             "chan_point": "9764a5d5f5bf7ee01659e070508de3cb59ad4d5f6b0cf0790971397de3d6af95:0",
-            "last_update": 1691026120,
+            "last_update": 1691112520,
             "node1_pub": "02b1772b04520ee3911f1366bc5eb60a582c6acf10fe538dff5098070e143f1fde",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -18016,7 +18016,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691026120
+                "last_update": 1691112520
             }
         },
         {
@@ -18048,7 +18048,7 @@
         {
             "channel_id": "836058746156941312",
             "chan_point": "550c38bc2825ebd8f4fc3c3c64c9945f5fd8b6382bd6d925a73a2e725b202ab2:0",
-            "last_update": 1691031520,
+            "last_update": 1691117920,
             "node1_pub": "02843fac504798cce112ce29c2dca7cc86a2793e2c420382d363f68bb6e4cb90a2",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -18068,7 +18068,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691031520
+                "last_update": 1691117920
             }
         },
         {
@@ -18100,7 +18100,7 @@
         {
             "channel_id": "836192886575398913",
             "chan_point": "4c52aa0da6b9ab048f2e10c6d1757d92a0c5627841ab404bc629d1499e120f6d:1",
-            "last_update": 1691029720,
+            "last_update": 1691116120,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03e7c12c1a243741003805f7dcfb731394213a8926ec5ae861958e31750e042dae",
             "capacity": "3087030",
@@ -18111,7 +18111,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "3056160000",
-                "last_update": 1691029720
+                "last_update": 1691116120
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -18126,7 +18126,7 @@
         {
             "channel_id": "836196185109823488",
             "chan_point": "60f2f208b57cdf18a96ca24a80e597c2e7e891147ac9a40a036ecc90ac413893:0",
-            "last_update": 1691048602,
+            "last_update": 1691135002,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03e7c12c1a243741003805f7dcfb731394213a8926ec5ae861958e31750e042dae",
             "capacity": "200000000",
@@ -18137,7 +18137,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691048602
+                "last_update": 1691135002
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -18178,7 +18178,7 @@
         {
             "channel_id": "836266553854590976",
             "chan_point": "01e76c51e49a23521b0745d3f67c689a4e2ac24f10d7b0b0bec40f1a359186c4:0",
-            "last_update": 1691038720,
+            "last_update": 1691125120,
             "node1_pub": "021e3de25a91849467df96012d4202591090680db3d6a8e85dd9ccbcaa4a870aef",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "7000000",
@@ -18198,7 +18198,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "6930000000",
-                "last_update": 1691038720
+                "last_update": 1691125120
             }
         },
         {
@@ -18230,7 +18230,7 @@
         {
             "channel_id": "836587611249311744",
             "chan_point": "195eecaf6d348fe1e04ac49e3616eb23079c4ef8106306c4aa520efe0b240747:0",
-            "last_update": 1691029720,
+            "last_update": 1691116120,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03e7c12c1a243741003805f7dcfb731394213a8926ec5ae861958e31750e042dae",
             "capacity": "950000",
@@ -18241,7 +18241,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "940500000",
-                "last_update": 1691029720
+                "last_update": 1691116120
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -18256,7 +18256,7 @@
         {
             "channel_id": "836590909784653824",
             "chan_point": "316cf4bc2929fd98e2a20c2ca0d3cd9504e2f44e57b99c1207f395219433505a:0",
-            "last_update": 1691029720,
+            "last_update": 1691116120,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03e7c12c1a243741003805f7dcfb731394213a8926ec5ae861958e31750e042dae",
             "capacity": "1000000",
@@ -18267,7 +18267,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691029720
+                "last_update": 1691116120
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -18282,7 +18282,7 @@
         {
             "channel_id": "836694263877271552",
             "chan_point": "5d7ef8777a42584d1ca4fe17ae31d315dcde8f9d593a1ce3089f688f1a3d8a5e:0",
-            "last_update": 1691026120,
+            "last_update": 1691112520,
             "node1_pub": "02657c9ab2c9bbdfe3b7df0a932cd7726aba9d81732606558d53249df93beb8045",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -18302,13 +18302,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691026120
+                "last_update": 1691112520
             }
         },
         {
             "channel_id": "836701960458731520",
             "chan_point": "dc764d157f9581cc5cbf824e1e94df382c3cc3cbe88a68a4d3346ee800b64b5f:0",
-            "last_update": 1691043202,
+            "last_update": 1691129602,
             "node1_pub": "02657c9ab2c9bbdfe3b7df0a932cd7726aba9d81732606558d53249df93beb8045",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -18328,7 +18328,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691043202
+                "last_update": 1691129602
             }
         },
         {
@@ -18464,7 +18464,7 @@
         {
             "channel_id": "839701428179304449",
             "chan_point": "6c5353c8d38faa87a0bfb1bb01b7c819f4a1bb028dc6b1d742450567a2bdab13:1",
-            "last_update": 1691026120,
+            "last_update": 1691112520,
             "node1_pub": "033e55e4ffca1eaf5d0645a1ac69dff029766594e0b77badc31ad6a8d6fabe5226",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "9987030",
@@ -18484,13 +18484,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9887160000",
-                "last_update": 1691026120
+                "last_update": 1691112520
             }
         },
         {
             "channel_id": "839704726713991168",
             "chan_point": "35dd454f655a99b935cd0dfe1ced2a8c48ccf1eb57e2eeacfb0f1f5942b70f6d:0",
-            "last_update": 1691023402,
+            "last_update": 1691109802,
             "node1_pub": "033e55e4ffca1eaf5d0645a1ac69dff029766594e0b77badc31ad6a8d6fabe5226",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "200000000",
@@ -18510,7 +18510,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "198000000000",
-                "last_update": 1691023402
+                "last_update": 1691109802
             }
         },
         {
@@ -18594,7 +18594,7 @@
         {
             "channel_id": "840649207202381824",
             "chan_point": "ae88cb510fbbe345415468d226b04f92a6fb30cbb13dcbbcdc7471c320096bc3:0",
-            "last_update": 1691101255,
+            "last_update": 1691141691,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03cb062dac8aff95cbeb07250f985fe03cac99c230c1d0c8c195a2f9154d87b06a",
             "capacity": "90000",
@@ -18605,7 +18605,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "89100000",
-                "last_update": 1691101255
+                "last_update": 1691141691
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -18672,7 +18672,7 @@
         {
             "channel_id": "841094509412745217",
             "chan_point": "74eaaf838794605be9ac87351c953ee69eac542a2f3fd5b44c480432c85dc312:1",
-            "last_update": 1691033320,
+            "last_update": 1691119720,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03efb3ee6f67bdf3acf1e357d2e5539863074c397cfff196380d65dfdbeaa9e671",
             "capacity": "9000000",
@@ -18683,7 +18683,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "8910000000",
-                "last_update": 1691033320
+                "last_update": 1691119720
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -18698,7 +18698,7 @@
         {
             "channel_id": "841219853737787392",
             "chan_point": "6835b1dc8a5b7730c5aa4c9f6d5a47b42a0ea7d94b28a86a452ab98085e8d69f:0",
-            "last_update": 1691035120,
+            "last_update": 1691121520,
             "node1_pub": "0290bd984dd8e6a99e30a392f949c4d0c40960407e685887ee7c5f75b0e36de8a8",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -18718,13 +18718,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691035120
+                "last_update": 1691121520
             }
         },
         {
             "channel_id": "841289122969616384",
             "chan_point": "a7430fdbb77ab7fbcdcef8bc1147b812338ef3dd944d5bdb7699158e03543f08:0",
-            "last_update": 1691057602,
+            "last_update": 1691144002,
             "node1_pub": "0290bd984dd8e6a99e30a392f949c4d0c40960407e685887ee7c5f75b0e36de8a8",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "1000000",
@@ -18744,7 +18744,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691057602
+                "last_update": 1691144002
             }
         },
         {
@@ -18828,7 +18828,7 @@
         {
             "channel_id": "842909803109416960",
             "chan_point": "6c6dbc7571a16b9764363e5f425acc43f2adc5b39c518f731c35b03ec5ca7bf0:0",
-            "last_update": 1691023402,
+            "last_update": 1691109802,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03ae7ae89d471e9f88d8d881e15508c0e89c93bfcabfe8e4fd545e9238dd06561b",
             "capacity": "64252300",
@@ -18839,7 +18839,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "63609777000",
-                "last_update": 1691023402
+                "last_update": 1691109802
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -18880,7 +18880,7 @@
         {
             "channel_id": "846354573038780417",
             "chan_point": "17e3095972d5c2957a2f96c658e514b3a209c2450bc2b8c3364b6dce9353f3ee:1",
-            "last_update": 1691026120,
+            "last_update": 1691112520,
             "node1_pub": "033a64ea12fb7d4fa7f4f74b897d170c70b22b3a38813df0c87fa0aae0b7f1b5a8",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "9000000",
@@ -18900,13 +18900,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "8910000000",
-                "last_update": 1691026120
+                "last_update": 1691112520
             }
         },
         {
             "channel_id": "846653640202911744",
             "chan_point": "02aaa7aa3b437cfb9b503044575eab68cd8de63a33b32a1002ab3693f841d25d:0",
-            "last_update": 1691045002,
+            "last_update": 1691131402,
             "node1_pub": "033a64ea12fb7d4fa7f4f74b897d170c70b22b3a38813df0c87fa0aae0b7f1b5a8",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "500000",
@@ -18926,7 +18926,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "495000000",
-                "last_update": 1691045002
+                "last_update": 1691131402
             }
         },
         {
@@ -19010,7 +19010,7 @@
         {
             "channel_id": "847424397853589504",
             "chan_point": "9f2c9cbe0838134b9ce93b504b4a7cc3d29e32ddcc86af85e10e3b174bb09c2d:0",
-            "last_update": 1691079202,
+            "last_update": 1691125818,
             "node1_pub": "023da130e2cd9f66f8c6efc533bb733e29b76838b73e546bb2b1db971005bde609",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "49000000",
@@ -19028,9 +19028,9 @@
                 "min_htlc": "1000",
                 "fee_base_m_atoms": "1000",
                 "fee_rate_milli_m_atoms": "1",
-                "disabled": false,
+                "disabled": true,
                 "max_htlc_m_atoms": "48510000000",
-                "last_update": 1691079202
+                "last_update": 1691125818
             }
         },
         {
@@ -19114,7 +19114,7 @@
         {
             "channel_id": "849144034038644737",
             "chan_point": "85cea1312c10c83fd448fe37cab00ec099a395fa1f4f0f279212b9c6417cd293:1",
-            "last_update": 1691026120,
+            "last_update": 1691112520,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03ca82a3db62af301cc3086fcec5a54822a938873e5e1d305565c72644da3df5ac",
             "capacity": "2987030",
@@ -19125,7 +19125,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "2957160000",
-                "last_update": 1691026120
+                "last_update": 1691112520
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -19270,7 +19270,7 @@
         {
             "channel_id": "849797143946330112",
             "chan_point": "7138ea99048747d2ec5aaf6fc93d717183b8291db70572187c7ad11bbfc56c6b:0",
-            "last_update": 1691084126,
+            "last_update": 1691128886,
             "node1_pub": "038a95ee5edb9bb05c923755a1fdcd4a142e4cb2fff8812d56e58629d0e8a6507f",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "2000000",
@@ -19290,13 +19290,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "1980000000",
-                "last_update": 1691084126
+                "last_update": 1691128886
             }
         },
         {
             "channel_id": "849931284364132353",
             "chan_point": "40d98a43a7091d27bd9f3b6419e1cf87ce2ebd8126d61e0f894a390fea31e02a:1",
-            "last_update": 1691079727,
+            "last_update": 1691110720,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03f65fadbbcede3f83c9f5c794ae9fdc3c568bf89f90721b5046fa6781d9bd3320",
             "capacity": "40000000",
@@ -19307,7 +19307,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "39600000000",
-                "last_update": 1691024320
+                "last_update": 1691110720
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -19322,7 +19322,7 @@
         {
             "channel_id": "850042335038996480",
             "chan_point": "a7807203de404cd14099284f2ec85ffdde148285906b3fb8726afc6347c33f05:0",
-            "last_update": 1691079727,
+            "last_update": 1691109802,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03f65fadbbcede3f83c9f5c794ae9fdc3c568bf89f90721b5046fa6781d9bd3320",
             "capacity": "50000000",
@@ -19333,7 +19333,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "49500000000",
-                "last_update": 1691023402
+                "last_update": 1691109802
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -19348,7 +19348,7 @@
         {
             "channel_id": "850943934573772801",
             "chan_point": "a54d4434fd836a2658945fae0dd05333ed398d04fb43bd1988e5ecd0892fc0ab:1",
-            "last_update": 1691109878,
+            "last_update": 1691127584,
             "node1_pub": "0362c993b027256a45333ac664f112fd78bb9e730acae0b315782638b48bdd68ca",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "2500000",
@@ -19357,9 +19357,9 @@
                 "min_htlc": "1000",
                 "fee_base_m_atoms": "1000",
                 "fee_rate_milli_m_atoms": "1",
-                "disabled": true,
+                "disabled": false,
                 "max_htlc_m_atoms": "2475000000",
-                "last_update": 1691109878
+                "last_update": 1691127584
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -19368,13 +19368,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "2475000000",
-                "last_update": 1691083720
+                "last_update": 1691127584
             }
         },
         {
             "channel_id": "851016502341402624",
             "chan_point": "523088a3e2812516a7b4bf5338949427ac9f9a0bbb344ad951c78ddc91cc5a31:0",
-            "last_update": 1691030602,
+            "last_update": 1691117002,
             "node1_pub": "02d747d515a8d23fa0b586a976ed0c7d1ab7b40ab5d15223497ccc399b248e3186",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "10000000",
@@ -19394,13 +19394,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691030602
+                "last_update": 1691117002
             }
         },
         {
             "channel_id": "851049487689449472",
             "chan_point": "6d66e4c5d274bf1520f12bbdc23e4d098b6a0417cbde15f7ccddb8e78821c3f9:0",
-            "last_update": 1691027920,
+            "last_update": 1691114320,
             "node1_pub": "034a7b1c8a20e63f8e26cb0a493d3abcad6cb254e6a62ee3b31f55d74d5dab5e04",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "1000000",
@@ -19420,7 +19420,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "990000000",
-                "last_update": 1691027920
+                "last_update": 1691114320
             }
         },
         {
@@ -19790,7 +19790,7 @@
         {
             "channel_id": "853668524386942977",
             "chan_point": "03eb3ed73bbdc5a7de7b7e0bec697b206507f0c05ebdf2f122f4df06eb2b3199:1",
-            "last_update": 1691036920,
+            "last_update": 1691123320,
             "node1_pub": "034a7b1c8a20e63f8e26cb0a493d3abcad6cb254e6a62ee3b31f55d74d5dab5e04",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "3000000",
@@ -19810,7 +19810,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "2970000000",
-                "last_update": 1691036920
+                "last_update": 1691123320
             }
         },
         {
@@ -19998,7 +19998,7 @@
         {
             "channel_id": "857714727177748480",
             "chan_point": "a1b28e644ccc6cda9db89b4084f5bd2138103000981797718ab6bb7158d044a7:0",
-            "last_update": 1691029720,
+            "last_update": 1691116120,
             "node1_pub": "02d747d515a8d23fa0b586a976ed0c7d1ab7b40ab5d15223497ccc399b248e3186",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -20018,13 +20018,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691029720
+                "last_update": 1691116120
             }
         },
         {
             "channel_id": "857892848061120513",
             "chan_point": "cdefa3365238df1df429ef82893380edadc52bd064a6b6688f5505e31811a1cf:1",
-            "last_update": 1691105969,
+            "last_update": 1691120786,
             "node1_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "node2_pub": "03ff900ec7c7559fffad679d2da63b49192d57e425d75b563671d5d0cd93565238",
             "capacity": "5000000",
@@ -20033,9 +20033,9 @@
                 "min_htlc": "1000",
                 "fee_base_m_atoms": "1000",
                 "fee_rate_milli_m_atoms": "1",
-                "disabled": false,
+                "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691105969
+                "last_update": 1691120786
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -20050,7 +20050,7 @@
         {
             "channel_id": "857899445131280385",
             "chan_point": "acabbf51dd22f506c0dbfcb7490135ba6111f9f652f1eaf2593215b7bce7c532:1",
-            "last_update": 1691105970,
+            "last_update": 1691120898,
             "node1_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "node2_pub": "03ff900ec7c7559fffad679d2da63b49192d57e425d75b563671d5d0cd93565238",
             "capacity": "25000000",
@@ -20059,9 +20059,9 @@
                 "min_htlc": "1000",
                 "fee_base_m_atoms": "1000",
                 "fee_rate_milli_m_atoms": "1",
-                "disabled": false,
+                "disabled": true,
                 "max_htlc_m_atoms": "24750000000",
-                "last_update": 1691105970
+                "last_update": 1691120898
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -20076,7 +20076,7 @@
         {
             "channel_id": "858070968944361472",
             "chan_point": "6d6f3eccd3488f4b400d89cd322169b9515bc519f9a2977e931fcc9fc3f191ba:0",
-            "last_update": 1691031520,
+            "last_update": 1691117920,
             "node1_pub": "025fa6090fa03e61471f8cc32661ac259645cf99f062de3ac914dc5e6b7c7964f6",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -20096,13 +20096,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691031520
+                "last_update": 1691117920
             }
         },
         {
             "channel_id": "858074267479769089",
             "chan_point": "69deec1e1bdf4c2b93f9c330b63c0b3fbda5533219548d039bc2f88a399e96e6:1",
-            "last_update": 1691032402,
+            "last_update": 1691118802,
             "node1_pub": "025fa6090fa03e61471f8cc32661ac259645cf99f062de3ac914dc5e6b7c7964f6",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "100000000",
@@ -20122,7 +20122,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "99000000000",
-                "last_update": 1691032402
+                "last_update": 1691118802
             }
         },
         {
@@ -20206,7 +20206,7 @@
         {
             "channel_id": "859523423805505537",
             "chan_point": "3f8b9fd9dc5acd11ce39b3446cc0bdbd306025f609bbc47047f8f40af9028d43:1",
-            "last_update": 1691053120,
+            "last_update": 1691139520,
             "node1_pub": "0206af44685a8823fafab8f8643c0f2e79a6b5ab8a4ccc481f33e2cfd29e056774",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "20000000",
@@ -20226,13 +20226,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "19800000000",
-                "last_update": 1691053120
+                "last_update": 1691139520
             }
         },
         {
             "channel_id": "859526722340061184",
             "chan_point": "48bb329533a84baec5a1f8f69ffa85b9765afaae10e676f0805844d1d23e6790:0",
-            "last_update": 1691054002,
+            "last_update": 1691140402,
             "node1_pub": "0206af44685a8823fafab8f8643c0f2e79a6b5ab8a4ccc481f33e2cfd29e056774",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "50000000",
@@ -20252,7 +20252,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "49500000000",
-                "last_update": 1691054002
+                "last_update": 1691140402
             }
         },
         {
@@ -20336,7 +20336,7 @@
         {
             "channel_id": "860329365827878913",
             "chan_point": "e8620cef7c9ab691c772989b759ae8f5a91a778049e8465a9ecd3ed0701bd43d:1",
-            "last_update": 1691054920,
+            "last_update": 1691139086,
             "node1_pub": "0223017115ecbf026e8327cac9aceeb7e502683166f5721cbf6b7e07a358907e93",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "5000000",
@@ -20347,7 +20347,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1690860199
+                "last_update": 1691126265
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -20356,13 +20356,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "4950000000",
-                "last_update": 1691054920
+                "last_update": 1691139086
             }
         },
         {
             "channel_id": "860636129572749312",
             "chan_point": "87141cbb7cf97127a5ff45073f2e3412a45b3e7d6b24c8a62baf0e9b3c0285de:0",
-            "last_update": 1691055802,
+            "last_update": 1691139138,
             "node1_pub": "0223017115ecbf026e8327cac9aceeb7e502683166f5721cbf6b7e07a358907e93",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "2000000",
@@ -20373,7 +20373,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "1980000000",
-                "last_update": 1690860205
+                "last_update": 1691126272
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -20382,13 +20382,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "1980000000",
-                "last_update": 1691055802
+                "last_update": 1691139138
             }
         },
         {
             "channel_id": "860651522735276032",
             "chan_point": "f55bc3f476ea4180f7753e809a28f1b4ce6f309939f52b476d38f9a108467b60:0",
-            "last_update": 1691055802,
+            "last_update": 1691139138,
             "node1_pub": "0223017115ecbf026e8327cac9aceeb7e502683166f5721cbf6b7e07a358907e93",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "2000000",
@@ -20399,7 +20399,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": false,
                 "max_htlc_m_atoms": "1980000000",
-                "last_update": 1690860205
+                "last_update": 1691126272
             },
             "node2_policy": {
                 "time_lock_delta": 80,
@@ -20408,7 +20408,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "1980000000",
-                "last_update": 1691055802
+                "last_update": 1691139138
             }
         },
         {
@@ -20492,7 +20492,7 @@
         {
             "channel_id": "863226578967592961",
             "chan_point": "37dad9b58289005ed30c771f13f55a5c56218831f6f3d19a12dfae4d9c5c3e66:1",
-            "last_update": 1691047720,
+            "last_update": 1691134120,
             "node1_pub": "02dec4de51ac5d8c76f34dc70c6bbe4c12f8887b52fa759297acbe5390632eea56",
             "node2_pub": "03bd03386d7b2efe80ae46d6c8cfcfdfcf9c9297a465ac0d48c110d11ae58ed509",
             "capacity": "10000000",
@@ -20512,13 +20512,13 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691047720
+                "last_update": 1691134120
             }
         },
         {
             "channel_id": "863235375060746240",
             "chan_point": "d8c6c3e907f0c476201bf171ed81042e2d711e061221e5675634af5061ff42fa:0",
-            "last_update": 1691048602,
+            "last_update": 1691135002,
             "node1_pub": "02dec4de51ac5d8c76f34dc70c6bbe4c12f8887b52fa759297acbe5390632eea56",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "10000000",
@@ -20538,7 +20538,7 @@
                 "fee_rate_milli_m_atoms": "1",
                 "disabled": true,
                 "max_htlc_m_atoms": "9900000000",
-                "last_update": 1691048602
+                "last_update": 1691135002
             }
         },
         {
@@ -20622,7 +20622,7 @@
         {
             "channel_id": "864384364711116800",
             "chan_point": "dc556aebd8fe75b9325b6f2668eb13f95ee0c0ebeb76d1b5f4e7997082d918ca:0",
-            "last_update": 1691108520,
+            "last_update": 1691121618,
             "node1_pub": "0318fe468a8bd7374b49c3f8f3bdc4c68ef670d0982ad54dad84bea5304b6f39df",
             "node2_pub": "0378f2ac061acbbc68d46241074cc658479923b01bd3adaf161b77270f8123d385",
             "capacity": "88000000",
@@ -20640,9 +20640,9 @@
                 "min_htlc": "1000",
                 "fee_base_m_atoms": "1000",
                 "fee_rate_milli_m_atoms": "1",
-                "disabled": false,
+                "disabled": true,
                 "max_htlc_m_atoms": "87120000000",
-                "last_update": 1691080861
+                "last_update": 1691121618
             }
         },
         {
