@@ -37,13 +37,13 @@ jobs:
         if: always()
         run: python nodes.py
 
-      - name: execute hashrate script # run hashrate.py to get the hashrate distribution
-        if: always()
-        run: python hashrate.py
+      #- name: execute hashrate script # run hashrate.py to get the hashrate distribution
+      #  if: always()
+      #  run: python hashrate.py
 
-      - name: execute hashrate MPS script # run hashrate.py to get the hashrate distribution
-        if: always()
-        run: python hashrate-mps.py
+      #- name: execute hashrate MPS script # run hashrate.py to get the hashrate distribution
+      #  if: always()
+      #  run: python hashrate-mps.py
 
       - name: execute dcrlnd script # run hashrate.py to get the hashrate distribution
         if: always()
