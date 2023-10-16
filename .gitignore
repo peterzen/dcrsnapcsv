@@ -1,0 +1,2 @@
+# Ignore any path containing '__pycache__'
+__pycache__
