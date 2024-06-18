@@ -1,0 +1,7 @@
+rank,useragent,count
+1,/dcrwire:1.0.0/dcrd:1.8.0/,49
+2,/dcrwire:1.0.0/dcrd:2.0.2/,45
+3,/dcrwire:1.0.0/dcrd:1.8.1/,16
+4,/dcrwire:1.0.0/dcrd:2.0.1/,7
+5,/dcrwire:1.0.0/dcrd:2.1.0(pre)/,6
+6,/dcrwire:1.0.0/dcrd:2.0.0/,5
