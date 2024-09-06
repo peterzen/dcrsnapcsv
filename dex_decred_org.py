@@ -42,14 +42,10 @@ markets.to_csv(filename,index=False)
 
 
 for index, row in assets.iterrows():
-    # check if the symbol includes the base network (e.g. .eth)
-    if "." in row.symbol:
-        xSymbol = row.symbol.split(".", 1)[0]
-    else:
-        xSymbol = row.symbol
+    xSymbol = row['unitinfo.conventional.unit']
     dYday = pd.to_datetime(dt.date.today() - dt.timedelta(days=1), utc=True, format='%Y-%m-%dT%H:%M:%S', errors='ignore')
-    PriceUSD = utils.cm.getMetric(xSymbol,'PriceUSD',dYday,dYday)
-    assets.at[index, 'PriceUSD'] = PriceUSD['PriceUSD'][0]
+    PriceUSD = utils.cm.getMetric(xSymbol,'ReferenceRateUSD',dYday,dYday)
+    assets.at[index, 'ReferenceRateUSD'] = PriceUSD['ReferenceRateUSD'][0]
 
 # grab spots data
 del data, response
@@ -63,7 +59,7 @@ for index, row in spots.iterrows():
     baseAssetData = assets.loc[assets.index == row['baseID']]
     baseAssetFactor = int(baseAssetData['unitinfo.conventional.conversionFactor'])
     spots.at[index, 'vol24'] = spots.at[index, 'vol24'] / baseAssetFactor
-    baseAssetPriceUSDT = float(baseAssetData['PriceUSD'].values[0])
+    baseAssetPriceUSDT = float(baseAssetData['ReferenceRateUSD'].values[0])
     spots.at[index, 'vol24USD'] = spots.at[index, 'vol24'] * baseAssetPriceUSDT
 
 # replace base with strings
