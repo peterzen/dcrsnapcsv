@@ -1,0 +1,7 @@
+name,base,quote,epochlen,lotsize,ratestep,buybuffer,parcelSize,status
+dcr_polygon,dcr,polygon,15000,10000000,10,1.2,10000,{'startepoch': 115129542}
+usdc.polygon_usdt.polygon,usdc.polygon,usdt.polygon,15000,1000000,10,1.2,5000,{'startepoch': 115129542}
+dcr_btc,dcr,btc,15000,4000000000,10,1.2,25,{'startepoch': 115129542}
+btc_usdt.polygon,btc,usdt.polygon,15000,500000,10,1.2,30,{'startepoch': 115129542}
+dcr_usdt.polygon,dcr,usdt.polygon,15000,10000000,10,1.2,10000,{'startepoch': 115129542}
+ltc_usdt.polygon,ltc,usdt.polygon,15000,2000000,10,1.2,10000,{'startepoch': 115129542}
