@@ -1,0 +1,4 @@
+pool_id,url,hashrate,miners,minpay,id,feetype,workers,income,i_blocks,blocks_nr,lastblock,lastblocktime,blocks_1000,blocks_count,hashrate_average_100_count,hashrate_average_100hashrate_average_1h,hashrate_average_7d,hashrate_average_7d_count,expected_blocks,luck
+miningandco.com,https://decred.miningandco.com,5280000000000,-1,-1,33,PPS,0,0,0,10,948696,1739480950,281,10,75,0,4985826864994.087,169,24.67,-14.671491555841818
+e4pool.com,https://dcr.e4pool.com,4440000000000,-1,-1,34,PPLNS,0,0,0,11,948753,1739497886,193,24,75,0,4315791475727.8115,169,20.27,3.7341118942137115
+threepool.tech,https://dcr.threepool.tech,3930000000000,-1,-1,35,PPLNS,0,0,0,11,948750,1739497418,279,29,75,0,3027817457846.152,169,18.06,10.93737966162811
